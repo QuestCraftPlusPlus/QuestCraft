@@ -7,9 +7,7 @@ For our developer friends, the QuestCraft Source Code lies in both the [MCXR Rep
 # **Installation Instructions**
 To install QuestCraft, first you need to install both APKs to your VR Headset using [SideQuest](https://sidequestvr.com) or [QuestToolbox](https://github.com/mitchv2020/QuestToolbox) (Auto Installer coming to QuestToolbox soon).
 
-Next, open the QuestCraft launcher on your headset and let it install all necessary files, make sure to allow all requested permissions. Then enter your Minecraft login details and click the Install button to install QuestCraft's required files.
-
-Last but not least, install the QuestCraft APK to your headset and run it, you have successfully installed QuestCraft to your VR headset! To play, simply open QuestCraft and wait for it to load, it might take a while depending on headset age and model.
+Next, open the QuestCraft launcher on your headset and let it install all necessary files, make sure to allow all requested permissions. Then enter your Minecraft login details and click the Install button to install QuestCraft's required files. Last but not least, install the QuestCraft APK to your headset and run it, you have successfully installed QuestCraft to your VR headset! To play, simply open QuestCraft and wait for it to load, it might take a while depending on headset age and model.
 
 # **Build Instructions**
 
