@@ -2,7 +2,7 @@
 
 First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for both the [QuestCraft Launcher](LINKSOON) and [QuestCraft Itself](LINKSOON) and download both APKs to your PC.
 
-For our developer friends, the QuestCraft Source Code lies in both the [MCXR Repo](github.com/QuestCraftPlusPlus/MCXR) and [PojavLauncher](github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source including .
+For our developer friends, the QuestCraft Source Code lies in both the [MCXR Repo](github.com/QuestCraftPlusPlus/MCXR) and [PojavLauncher](github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source including.
 
 # **Installation Instructions**
 To install QuestCraft, first you need to install both APKs to your VR Headset using [SideQuest](https://sidequestvr.com) or [QuestToolbox](https://github.com/mitchv2020/QuestToolbox) (Auto Installer coming to QuestToolbox soon).
