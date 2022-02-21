@@ -15,7 +15,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 # Build Instructions
 
-For building manually, please check out our [PojavLauncher](github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
+For building manually, please check out our [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
 
 ## Recommended mods
 
