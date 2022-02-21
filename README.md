@@ -2,7 +2,7 @@
 
 First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases) and download the APK to your computer or mobile device.
 
-For our developer friends, the QuestCraft Source Code lies in both the [MCXR Repo](github.com/QuestCraftPlusPlus/MCXR) and [PojavLauncher](github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source.
+For our developer friends, the QuestCraft Source Code lies in both the [MCXR Repo](https://github.com/QuestCraftPlusPlus/MCXR) and [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source.
 # Installation Instructions
 
 **PLEASE NOTE: In order to install QuestCraft, you must have an Internet Connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
@@ -15,7 +15,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 # Build Instructions
 
-For building manually, please check out our [PojavLauncher](github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
+For building manually, please check out our [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
 
 ## Recommended mods
 
@@ -26,4 +26,4 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 - [C^2M-Engine](https://github.com/RelativityMC/C2ME-fabric) (Speeds up chunk generation) (Back up your worlds before using!!)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (General purpose performance mod)
 
-At the moment, Sodium, Iris, and Canvas do not work. We are working on porting sodium, if you would like to contribute, please make a PR for your work on our [Sodium](github.com/QuestCraftPlusPlus/sodium-fabric) repo.
+At the moment, Sodium, Iris, and Canvas do not work. We are working on porting sodium, if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo.
