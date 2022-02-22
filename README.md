@@ -1,5 +1,5 @@
 # Welcome to the QuestCraft Github!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K4AQC57)
+[Support us here!](https://www.patreon.com/QuestCraftXR)
 
 First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases) and download the APK to your computer or mobile device.
 
