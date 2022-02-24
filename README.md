@@ -18,6 +18,9 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 For building manually, please check out our [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
 
+# Misc
+Miscellaneous information about questcraft, such as controls, or recommended mods. 
+
 ## Recommended mods
 
 QuestCraft is fairly slow by itself because minecraft is a very badly optimized game. Here is a (not comprehensive) list of some recommended performance enhancing mods:
