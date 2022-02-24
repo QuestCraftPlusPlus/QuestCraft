@@ -28,3 +28,21 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (General purpose performance mod)
 
 At the moment, Sodium, Iris, and Canvas do not work. We are working on porting sodium, if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo.
+
+## Controls
+CONTROL LIST:
+
+LEFT THUMBSTICK: ANALOGUE MOVEMENT <br/>
+LEFT TRIGGER: PLACE/USE <br/>
+LEFT GRIP (HOLD): CROUCH <br/>
+LEFT MENU BUTTON: PAUSE MENU <br/>
+LEFT TOP BUTTON: INVENTORY/CREATIVE MENU <br/><br/>
+
+RIGHT THUMBSTICK (L/R): SNAP TURNING <br/>
+RIGHT THUMBSTICK (U/D): CHANGE HOTBAR SLOT <br/>
+RIGHT TRIGGER: MINE/ATTACK/CLICK <br/>
+RIGHT GRIP (HOLD): SPRINT <br/>
+RIGHT BOTTOM BUTTON: JUMP <br/>
+RIGHT TOP BUTTON: RIGHT CLICK IN INVENTORY (I.E SINGLE ITEM FROM STACK) <br/><br/>
+
+These controls are subject to change.
