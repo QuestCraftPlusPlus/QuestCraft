@@ -1,7 +1,7 @@
 # Welcome to the QuestCraft Github!
 [Support us here!](https://www.patreon.com/QuestCraftXR)
 
-First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases) and download the APK to your computer or mobile device.
+First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest) and download the APK to your computer or mobile device.
 
 For our developer friends, the QuestCraft Source Code lies in both the [MCXR](https://github.com/QuestCraftPlusPlus/MCXR) repo and [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source.
 # Installation Instructions
