@@ -34,6 +34,6 @@ At the moment, Sodium, Iris, and Canvas do not work. We are working on porting s
 
 ## Controls
 
-![There's supposed to be controls here](/Controls.png)
+![There's supposed to be controls here](/Control.png)
 
 These controls are subject to change.
