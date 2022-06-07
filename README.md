@@ -36,7 +36,7 @@ At the moment, Sodium, Iris, and Canvas do not work. We are working on porting s
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/Sorenon/MCXR) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
 - All support questions should be asked inside of the QuestCraft Discord or PojavLauncher/MCXR Discord servers for the best experience.
-- questcraft.net is not maintained or owned by anyone on the questcraft team, they could put malware on it at any time. Please do not download anything from or visit questcraft.net
+- **questcraft.net is not maintained or owned by anyone on the questcraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net.
 
 ## Controls
 
