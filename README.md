@@ -32,6 +32,12 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 
 At the moment, Sodium, Iris, and Canvas do not work. We are working on porting sodium, if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo.
 
+## Note
+- We do not exist on TikTok. No one from the dev team makes TikTok videos. 
+- QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/Sorenon/MCXR) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
+- All support questions should be asked inside of the QuestCraft Discord or PojavLauncher/MCXR Discord servers for the best experience.
+- questcraft.net is not maintained or owned by anyone on the questcraft team, they could put malware on it at any time. Please do not download anything from or visit questcraft.net
+
 ## Controls
 
 ![There's supposed to be controls here](/Control.png)
