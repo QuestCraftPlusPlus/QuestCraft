@@ -27,7 +27,6 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 - [Cull Leaves](https://curseforge.com/minecraft/mc-mods/cull-leaves) (Culls leaves that are behind other leaves)
 - [Starlight](https://curseforge.com/minecraft/mc-mods/starlight) (Improves the lighting engine)
 - [LazyDFU](https://curseforge.com/minecraft/mc-mods/lazydfu) (Removes DFU Caching)
-- [C^2M-Engine](https://github.com/RelativityMC/C2ME-fabric) (Speeds up chunk generation) (Back up your worlds before using!!)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (General purpose performance mod)
 
 At the moment, Sodium, Iris, and Canvas do not work. We are working on porting sodium, if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo.
