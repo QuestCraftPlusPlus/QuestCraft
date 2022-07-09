@@ -26,7 +26,6 @@ Miscellaneous information about questcraft, such as controls, or recommended mod
 QuestCraft is fairly slow by itself because minecraft is a very badly optimized game. Here is a (not comprehensive) list of some recommended performance enhancing mods:
 - [Cull Leaves](https://curseforge.com/minecraft/mc-mods/cull-leaves) (Culls leaves that are behind other leaves)
 - [Starlight](https://curseforge.com/minecraft/mc-mods/starlight) (Improves the lighting engine)
-- [LazyDFU](https://curseforge.com/minecraft/mc-mods/lazydfu) (Removes DFU Caching)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (General purpose performance mod)
 
 At the moment, Sodium, Iris, and Canvas do not work. We are working on porting sodium, if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo.
