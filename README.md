@@ -1,3 +1,5 @@
+# CURRENTLY BROKEN BY THE META V44 UPDATE, PLEASE DO NOT MAKE ISSUES REGARDING THIS. IT WILL BE FIXED AS SOON AS POSSIBLE.
+
 # Welcome to the QuestCraft Github!
 [Support us here!](https://www.patreon.com/QuestCraftXR)
 
