@@ -3,7 +3,7 @@
 # Welcome to the QuestCraft GitHub!
 [Support us on Patreon!](https://patreon.com/QuestCraftXR)
 
-~~First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)and download the APK to your computer or mobile device.~~ **QuestCraft is currently broken due to the v44 update released by Meta, therefore all current releases are non-functoional. A new release including the fix will be released at some point in the near future (hopefully).**
+~~First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)and download the APK to your computer or mobile device.~~ **QuestCraft is currently broken due to the v44 update released by Meta, therefore all current releases are non-functional. A new release including the fix will be released at some point in the near future (hopefully).**
 
 For our developer friends, the QuestCraft Source Code lies in both the [MCXR](https://github.com/QuestCraftPlusPlus/MCXR) repo and [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source.
 
