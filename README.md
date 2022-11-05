@@ -1,11 +1,13 @@
-# CURRENTLY BROKEN BY THE META V44 UPDATE, PLEASE DO NOT MAKE ISSUES REGARDING THIS. IT WILL BE FIXED AS SOON AS POSSIBLE.
+# CURRENTLY BROKEN BY THE META V44 UPDATE, PLEASE DO NOT MAKE ISSUES REGARDING THIS. A RELEASING INCLUDING THE FIX WILL BE RELEASED IN THE NEAR FUTURE (maybe)
 
-# Welcome to the QuestCraft Github!
-[Support us here!](https://www.patreon.com/QuestCraftXR)
+# Welcome to the QuestCraft GitHub!
+[Support us on Patreon!](https://patreon.com/QuestCraftXR)
 
-First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest) and download the APK to your computer or mobile device.
+~~First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)and download the APK to your computer or mobile device.~~ **QuestCraft is currently broken due to the v44 update released by Meta, therefore all current releases are non-functoional. A new release including the fix will be released at some point in the near future (hopefully).**
 
 For our developer friends, the QuestCraft Source Code lies in both the [MCXR](https://github.com/QuestCraftPlusPlus/MCXR) repo and [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo. These contain everything needed to compile QuestCraft from source.
+
+**NOTE: QuestCraft version 3.0 will not be utilizing PojavLauncher + MCXR, but rather utilizing the recently released Vivecraft Mix-In project, which aims to make Vivecraft work without Optifine, therefore making it usable with the Fabric version of Minecraft.**
 
 ### We are partnered with BisectHosting! Support us by going to their [website](https://bisecthosting.com/xrcraft) and using code "xrcraft" at checkout to get 25% off of any server over 3GB.
 
@@ -19,10 +21,12 @@ First, you need to install the QuestCraft APK to your VR Headset using [SideQues
 Next, open the QuestCraft launcher on your headset. Be sure to allow it to install any necessary files, and to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and click the Install button to install QuestCraft's remaining required files.
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
+**NOTE: These instructions only work if your Meta Quest is on Meta update v43 or below. Any update above v44 will not work for Questcraft due to Meta patching/removing a way that QuestCraft 2.0.1 and lower initalized from 2D to 3D, aka from PojavLauncher's main launcher to MCXR.**
 
 # Build Instructions
 
 For building manually, please check out our [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
+**NOTE: QuestCraft's current code is broken and therefore any attempt at building it manually, without modifying or adding to the current code, will result in a failure.**
 
 ## Recommended mods
 
@@ -37,7 +41,7 @@ At the moment, Sodium, Iris, and Canvas do not work. We are working on porting s
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/Sorenon/MCXR) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
 - All support questions should be asked inside of the QuestCraft Discord or PojavLauncher/MCXR Discord servers for the best experience.
-- **questcraft.net is not maintained or owned by anyone on the questcraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net.
+- **questcraft.net is not maintained or owned by anyone on the questcraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**
 
 ## Controls
 
