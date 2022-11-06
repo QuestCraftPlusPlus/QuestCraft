@@ -14,19 +14,22 @@ For our developer friends, the QuestCraft Source Code lies in both the [MCXR](ht
 ![sponsor image](/partnerimage.png)
 # Installation Instructions
 
-**PLEASE NOTE: In order to install QuestCraft, you must have an Internet Connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
+**NOTE I: In order to install QuestCraft, you must have an Internet Connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
+
+**NOTE II: These instructions only work if your Meta Quest is on Meta update v43 or below. Any update above v44 will not work for Questcraft due to Meta patching/removing a way that QuestCraft 2.0.1 and lower initalized from 2D to 3D, aka from PojavLauncher's main launcher to MCXR.**
 
 First, you need to install the QuestCraft APK to your VR Headset using [SideQuest](https://sidequestvr.com) (available on Windows, macOS, Linux, and Android) or with [QuestToolbox](https://github.com/mitchv2020/QuestToolbox) (Available on Windows, Auto Installer coming to QuestToolbox soon).
 
 Next, open the QuestCraft launcher on your headset. Be sure to allow it to install any necessary files, and to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and click the Install button to install QuestCraft's remaining required files.
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
-**NOTE: These instructions only work if your Meta Quest is on Meta update v43 or below. Any update above v44 will not work for Questcraft due to Meta patching/removing a way that QuestCraft 2.0.1 and lower initalized from 2D to 3D, aka from PojavLauncher's main launcher to MCXR.**
 
 # Build Instructions
 
-For building manually, please check out our [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
 **NOTE: QuestCraft's current code is broken and therefore any attempt at building it manually, without modifying or adding to the current code, will result in a failure.**
+
+For building manually, please check out our [PojavLauncher](https://github.com/QuestCraftPlusPlus/PojavLauncher) repo and follow the instructions provided there. More in depth instructions for QCXR as a whole will be available soon.
+
 
 ## Recommended mods
 
