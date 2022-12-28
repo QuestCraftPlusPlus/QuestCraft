@@ -1,7 +1,7 @@
 # Welcome to the QuestCraft GitHub!
 [Support us on Patreon!](https://patreon.com/QuestCraftXR)
 
-~~First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)and download the APK to your computer or mobile device.
+First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)and download the APK to your computer or mobile device.
 
 ### We are partnered with BisectHosting! Support us by going to their [website](https://bisecthosting.com/xrcraft) and using code "xrcraft" at checkout to get 25% off of any server over 3GB.
 
