@@ -20,7 +20,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Better Biome Blend](https://modrinth.com/mod/better-biome-blend)  (Fixes and adds features to the Biome Blend setting, so you can increase it to max with no performance decrease)                                                                                                                           
 
-[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) (Improves chunk loading, best used with [Starlight](https://modrinth.com/mod/starlight))
+[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) (Improves chunk loading, best used with [Starlight](https://modrinth.com/mod/starlight), already bundled.)
 
 [Cloth Config](https://modrinth.com/mod/cloth-config) (Libary for config screens, e.g. Video Settings)
                                                                                                                                                   
@@ -38,13 +38,13 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [LazyDFU](https://modrinth.com/mod/lazydfu) (Improves game boot time, by making DataFixerUpper do less stuff)
 
-[Lithium](https://modrinth.com/mod/lithium) (Improves lots of system in Minecraft)
+[Lithium](https://modrinth.com/mod/lithium) (Improves lots of systems in Minecraft, improving performance)
 
 [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) (Libary to make more mods work)
 
 [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) (Makes Minecraft loading smoother)
 
-[Sodium](https://modrinth.com/mod/sodium) [Partial] (Improves FPS and fixxes graphical issues)
+[Sodium](https://modrinth.com/mod/sodium) **[Partial]** (Improves FPS and fixxes graphical issues)
 
 [Starlight](https://modrinth.com/mod/starlight) (Improves the lighting engine)
 
@@ -60,10 +60,10 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Culls leaves that are behind other leaves for better performance)
 - [Architectury API](https://modrinth.com/mod/architectury-api) (makes lots of mods available)
-- [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium)
+- [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: Your must have the latest Sodium version in order for the mod to work, otherwise the game WILL crash.**)
 - [Mod Menu](https://modrinth.com/mod/modmenu) (Adds a mod menu to see what mods are present, and if [YetAnotherConfigLib](https://modrinth.com/mod/yacl) is present, can customize mod settings)
 
-At the moment, Iris and Canvas do not work. We are working on porting Sodium into its fullest, and if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo. 
+At the moment, Iris and Canvas do not work. We are working on porting Sodium into its fullest, and if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo. Performance is key!
 
 
 ## Note
