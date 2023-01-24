@@ -44,7 +44,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) (Makes Minecraft loading smoother)
 
-[Sodium](https://modrinth.com/mod/sodium) **[Partial]** (Improves FPS and fixxes graphical issues)
+[Sodium](https://modrinth.com/mod/sodium) **[Partial]** (Improves FPS and fixes graphical issues)
 
 [Starlight](https://modrinth.com/mod/starlight) (Improves the lighting engine)
 
@@ -60,10 +60,10 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Culls leaves that are behind other leaves for better performance)
 - [Architectury API](https://modrinth.com/mod/architectury-api) (makes lots of mods available)
-- [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest Sodium version in order for the mod to work, otherwise the game WILL crash.**)
+- [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest [Sodium](https://modrinth.com/mod/sodium) version in order for the mod to work, otherwise the game WILL crash.**)
 - [Mod Menu](https://modrinth.com/mod/modmenu) (Adds a mod menu to see what mods are present, and if [YetAnotherConfigLib](https://modrinth.com/mod/yacl) is present, can customize mod settings)
 
-**NOTE: When installing (supported) mods on your Quest, you may need to update a mod that's bundled in with QCXR. However, this may lead to unexpected crashes! If you experience any, please file an issue.**
+**NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR. However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please file an issue.**
 At the moment, Iris and Canvas do not work. We are working on porting Sodium into its fullest, and if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo. Performance is key!
 
 
