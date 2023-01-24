@@ -18,9 +18,9 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Included Mods 
 
-[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)  (Fixes and adds features to the Biome Blend setting, so you can increase it to max with no performance decrease)                                                                                                                           
+[Better Biome Blend](https://modrinth.com/mod/better-biome-blend) (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
-[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) (Improves chunk loading, best used with [Starlight](https://modrinth.com/mod/starlight), already bundled.)
+[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) (Improves chunk loading)
 
 [Cloth Config](https://modrinth.com/mod/cloth-config) (Libary for config screens, e.g. Video Settings)
                                                                                                                                                   
@@ -50,7 +50,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) (Big QOL mod that tweaks alot of Minecraft)
 
-[ViveCraft](https://github.com/ferriarnus/VivecraftMod) (Port of Vivecraft to run on Fabric)
+[VivecraftMod](https://github.com/ferriarnus/VivecraftMod) (Port of Vivecraft to run on Fabric)
 
 [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (Adds proximity voice chat, among other things)
 
@@ -60,9 +60,10 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves) (Culls leaves that are behind other leaves for better performance)
 - [Architectury API](https://modrinth.com/mod/architectury-api) (makes lots of mods available)
-- [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: Your must have the latest Sodium version in order for the mod to work, otherwise the game WILL crash.**)
+- [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest Sodium version in order for the mod to work, otherwise the game WILL crash.**)
 - [Mod Menu](https://modrinth.com/mod/modmenu) (Adds a mod menu to see what mods are present, and if [YetAnotherConfigLib](https://modrinth.com/mod/yacl) is present, can customize mod settings)
 
+**NOTE: When installing (supported) mods on your Quest, you may need to update a mod that's bundled in with QCXR. However, this may lead to unexpected crashes! If you experience any, please file an issue.**
 At the moment, Iris and Canvas do not work. We are working on porting Sodium into its fullest, and if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo. Performance is key!
 
 
