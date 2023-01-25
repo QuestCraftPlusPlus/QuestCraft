@@ -64,15 +64,15 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 - [Mod Menu](https://modrinth.com/mod/modmenu) (Adds a mod menu to see what mods and libraries are present, and if [YetAnotherConfigLib](https://modrinth.com/mod/yacl) is present, can customize mod settings)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights to light emitting blocks, making the lighting more realistic and better overall.)
 
-**NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR. However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please file an issue.**
+**NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (e.g. Fabric API, Sodium). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose).**
 At the moment, Iris and Canvas do not work. We are working on porting Sodium into its fullest, and if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo. Performance is key!
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/mcxr-org/MCXR), the previous VR mod, now replaced with [VivecraftMod](https://github.com/ferriarnus/VivecraftMod) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) (for Pojlib)! 
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
-- **questcraft.net is not maintained or owned by anyone on the questcraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/).
--Pico support isn't planned for time being. Until then, use Vivecraft PCVR.
+- **questcraft.net is not maintained or owned by anyone on the questcraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/). 
+- Pico support isn't planned for time being. Until then, use Vivecraft PCVR.
 ## Controls
 
 ![There's supposed to be controls here](/Control.png)
