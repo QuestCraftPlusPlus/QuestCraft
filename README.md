@@ -38,7 +38,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [LazyDFU](https://modrinth.com/mod/lazydfu) (Improves game boot time, by making DataFixerUpper do less stuff)
 
-[Lithium](https://modrinth.com/mod/lithium) (Improves lots of systems in Minecraft, improving performance)
+[Lithium](https://modrinth.com/mod/lithium) (General purpose performance mod)
 
 [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) (Libary to make more mods work)
 
@@ -48,7 +48,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Starlight](https://modrinth.com/mod/starlight) (Improves the lighting engine)
 
-[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) (Big QOL mod that tweaks alot of Minecraft)
+[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) (Big QOL mod that changes alot of things)
 
 [VivecraftMod](https://github.com/ferriarnus/VivecraftMod) (Port of Vivecraft to run on Fabric)
 
