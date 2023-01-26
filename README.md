@@ -16,7 +16,7 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
-## Included Mods 
+## Included Mods (Performance is key!) 
 
 [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
@@ -44,7 +44,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) (Makes Minecraft loading smoother)
 
-[Sodium](https://modrinth.com/mod/sodium) **[Partial]** (Improves FPS and fixes graphical issues)
+[Sodium](https://modrinth.com/mod/sodium) (Improves FPS and fixes graphical issues)
 
 [Starlight](https://modrinth.com/mod/starlight) (Improves the lighting engine)
 
@@ -65,7 +65,7 @@ QuestCraft is fairly slow by itself because minecraft is a very badly optimized 
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights to light emitting blocks, making the lighting more realistic and better overall.)
 
 **NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (e.g. Fabric API, Sodium). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose).**
-At the moment, Iris and Canvas do not work. We are working on porting Sodium into its fullest, and if you would like to contribute, please make a PR for your work on our [Sodium](https://github.com/QuestCraftPlusPlus/sodium-fabric) repo. Performance is key!
+At the moment, Iris and Canvas do not work. Distant Horizons support is planned, but may take a while. 
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
