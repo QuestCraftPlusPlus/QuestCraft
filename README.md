@@ -63,18 +63,13 @@ QuestCraft is mildly slow by itself because minecraft is a very badly optimized 
 - [Exordium](https://modrinth.com/mod/exordium) (Decrease GUI framerate to speed up world rendering)
 - [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest [Sodium](https://modrinth.com/mod/sodium) version in order for the mod to work, otherwise the game WILL crash.**)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights to light emitting blocks, making the lighting more realistic and better overall.)
+- [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (Allows you to see and (with UACL) configure installed mods.)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (Fixes random memory leaks to reduce RAM usage)
 - [More Culling](https://modrinth.com/mod/moreculling) (Culls not just leaves, but loads of other things to improve performance. Installing [More Culling Extra](https://modrinth.com/mod/morecullingextra) will also add more culling features!)
 
 **NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (e.g. Fabric API, Sodium). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose).**
-At the moment, Iris and Canvas do not work. Distant Horizons support is planned, but may take a while. 
-
-## How to Configure Mods
-1. You can use [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl)                                     
-**or**
-2. You can use [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric) and [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric) (yes, that is not a mistype)      
-
-Choose which one suits your type more. 
+At the moment, Iris and Canvas do not work. Distant Horizons support is planned, but may take a while.                                                   
+*You can use [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) to see and configure what mods you have.*
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
