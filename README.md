@@ -69,7 +69,6 @@ QuestCraft is mildly slow by itself because minecraft is a very badly optimized 
 
 **NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (e.g. Fabric API, Sodium). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose).**
 At the moment, Iris and Canvas do not work. Distant Horizons support is planned, but may take a while.                                                   
-*You can use [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) to see and configure what mods you have.*
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
