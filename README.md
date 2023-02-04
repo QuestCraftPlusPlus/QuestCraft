@@ -74,7 +74,7 @@ At the moment, Iris and Canvas do not work. Distant Horizons support is planned,
 **or**
 2. You can use [Configured](https://www.curseforge.com/minecraft/mc-mods/configured-fabric) and [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric) (yes, that is not a mistype)      
 
-Choose which one suits your install more. 
+Choose which one suits your type more. 
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
