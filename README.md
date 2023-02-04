@@ -10,7 +10,7 @@ First off, you most likely want to install QuestCraft. If you would like to get 
 
 **NOTE: In order to install QuestCraft, you must have an internet connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
 
-First, you need to install the QuestCraft APK to your VR Headset using [SideQuest](https://sidequestvr.com) (**Recommended**, available on Windows, macOS, Linux, and Android) or with [QuestToolbox](https://github.com/mitchv2020/QuestToolbox) (Available on Windows, Auto Installer coming to QuestToolbox soon).
+First, you need to install the QuestCraft APK to your VR Headset using [SideQuest](https://sidequestvr.com) and follow the necessary dteps to connect your Quest. 
 
 Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files.
 
@@ -75,16 +75,15 @@ At the moment, Iris and Canvas do not work. Distant Horizons support is planned,
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entites (in this case, kelp waiting to be picked up) exist at once.
-4. If any leave culling mod (e.g. [Cull Leaves](https://modrinth.com/mod/cull-leaves), [More Culling](https://modrinth.com/mod/moreculling)) is present, you can set the leaves quality to Fancy!
-5. You are able to max out Biome Blend if you have QCXR 3.1 or later!
-6. If [More Culling](https://modrinth.com/mod/moreculling) is present, go to the video settings and go to the More Culling tab. Set the leave culling type to Depth and enjoy a performance boost!
+4. Skyblock and Oneblock worlds perform the best, as they require less hardware usage.
+4. You are able to max out Biome Blend if you have QCXR 3.1 or later!
 
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/mcxr-org/MCXR), the previous VR mod, now replaced with [VivecraftMod](https://github.com/ferriarnus/VivecraftMod) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) (for Pojlib)! 
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
-- **questcraft.net is not maintained or owned by anyone on the questcraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/). 
+- **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
 - Pico support isn't planned for time being. Until then, use Vivecraft PCVR.
 ## Controls
 
