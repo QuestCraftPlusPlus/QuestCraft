@@ -10,7 +10,7 @@ First off, you most likely want to install QuestCraft. If you would like to get 
 
 **NOTE: In order to install QuestCraft, you must have an internet connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
 
-First, you need to install the QuestCraft APK to your VR Headset using [SideQuest](https://sidequestvr.com) and follow the necessary dteps to connect your Quest. 
+First, you need to install the QuestCraft APK to your VR Headset using [SideQuest](https://sidequestvr.com) and follow the necessary steps to connect your Quest. 
 
 Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files.
 
