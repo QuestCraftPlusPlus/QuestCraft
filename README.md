@@ -20,17 +20,17 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
-[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) (Improves chunk loading)
-
 [Cloth Config](https://modrinth.com/mod/cloth-config) (Libary for config screens, e.g. Video Settings)
+
+[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) (Improves chunk loading)
                                                                                                                                                   
 [Entity Culling](https://modrinth.com/mod/entityculling) (Renders only visible blocks and entities, improving overall performance)
 
 [Fabric API](https://modrinth.com/mod/fabric-api) (API for Fabric. Essential to basically get any mod running.)
 
-[Fastload](https://modrinth.com/mod/fastload) (Improves world load and prevents potential crashes)
-
 [Ferrite Core](https://modrinth.com/mod/ferrite-core) (Decreases memory usage by doing technical stuff)
+
+[Fastload](https://modrinth.com/mod/fastload) (Improves world load and prevents potential crashes)
 
 [Immediately Fast](https://modrinth.com/mod/immediatelyfast) (Optimizes lots of things, making rendering more GPU efficient)
 
