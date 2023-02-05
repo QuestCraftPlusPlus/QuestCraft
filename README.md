@@ -34,13 +34,13 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 [Immediately Fast](https://modrinth.com/mod/immediatelyfast) (Optimizes lots of things, making rendering more GPU efficient)
 
-[Krypton](https://modrinth.com/mod/krypton) (Slightly reduces memory usage on servers, lowers server CPU usage and server ticks)
+[Krypton](https://modrinth.com/mod/krypton) (Slightly reduces memory usage on servers, decreases server CPU usage and server ticks)
 
 [LazyDFU](https://modrinth.com/mod/lazydfu) (Improves game boot time, by making DataFixerUpper do less stuff)
 
 [Lithium](https://modrinth.com/mod/lithium) (General purpose performance mod)
 
-[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) (Libary to make more mods work)
+[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) (Libary for some mods)
 
 [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) (Makes Minecraft loading smoother)
 
@@ -56,18 +56,19 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Recommended Mods
 
-QuestCraft is mildly slow by itself because minecraft is a very badly optimized game. QuestCraft already includes a couple of mods to enhance the performance, but here is a (not comprehensive) list of some more recommended mods to enhance the experience:
+QuestCraft is mildly slow by itself because minecraft is a very badly optimized game. QuestCraft already includes a couple of mods to enhance the performance, but here is a (not comprehensive) list of some more recommended mods to enhance the experience:                                             
+
+**NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (Fabric API, Sodium, etc.). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)!**
 
 - [Architectury API](https://modrinth.com/mod/architectury-api) (Library for plenty of mods)
 - [Debugify](https://modrinth.com/mod/debugify) (Fixes many Minecraft bugs)
 - [Exordium](https://modrinth.com/mod/exordium) (Decrease GUI framerate to speed up world rendering)
 - [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest [Sodium](https://modrinth.com/mod/sodium) version in order for the mod to work, otherwise the game WILL crash.**)
-- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights to light emitting blocks, making the lighting more realistic and better overall.)
-- [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (Allows you to see and (with UACL) configure installed mods.)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights to light emitting blocks. Example, when holding a torch on your hand.)
+- [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (Allows you to see and (with YACL) configure installed mods.)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (Fixes random memory leaks to reduce RAM usage)
 - [More Culling](https://modrinth.com/mod/moreculling) (Culls not just leaves, but loads of other things to improve performance. Installing [More Culling Extra](https://modrinth.com/mod/morecullingextra) will also add more culling features!)
 
-**NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (e.g. Fabric API, Sodium). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose).**
 At the moment, Iris and Canvas do not work. Distant Horizons support is planned, but may take a while.                                                   
 
 ## Some Recommended Settings and Tips 
