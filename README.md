@@ -12,7 +12,7 @@ First off, you most likely want to install QuestCraft. If you would like to get 
 
 First, you need to install the QuestCraft APK to your VR Headset using [SideQuest](https://sidequestvr.com) and follow the necessary steps to connect your Quest. 
 
-Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files.
+Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-left).
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
@@ -64,25 +64,25 @@ QuestCraft is mildly slow by itself because minecraft is a very badly optimized 
 - [Debugify](https://modrinth.com/mod/debugify) (Fixes many Minecraft bugs)
 - [Exordium](https://modrinth.com/mod/exordium) (Decrease GUI framerate to speed up world rendering)
 - [Indium](https://modrinth.com/mod/indium) (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest [Sodium](https://modrinth.com/mod/sodium) version in order for the mod to work, otherwise the game WILL crash.**)
-- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights to light emitting blocks. Example, when holding a torch on your hand.)
-- [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (Allows you to see and (with YACL) configure installed mods.)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) (Adds dynamic lights lights to Minecraft)
+- [Mod Menu](https://modrinth.com/mod/modmenu) and [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (Allows you to see and (with YACL) configure installed mods)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) (Fixes random memory leaks to reduce RAM usage)
 - [More Culling](https://modrinth.com/mod/moreculling) (Culls not just leaves, but loads of other things to improve performance. Installing [More Culling Extra](https://modrinth.com/mod/morecullingextra) will also add more culling features!)
 
-At the moment, Iris and Canvas do not work. Distant Horizons support is planned, but may take a while.                                                   
+At the moment, Iris and Canvas do not work. Distant Horizons and Immersive Portals support is planned, but it may take awhile until we get OpenGL shaders working.                                                   
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entites (in this case, kelp waiting to be picked up) exist at once.
 4. Skyblock and Oneblock worlds perform the best, as they require less hardware usage.
-4. You are able to max out Biome Blend if you have QCXR 3.1 or later!
+4. You are able to max out Biome Blend with no performance slowdowns, if on the latest version.
 
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/mcxr-org/MCXR), the previous VR mod, now replaced with [VivecraftMod](https://github.com/ferriarnus/VivecraftMod) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) (for Pojlib)! 
-- The repo's we use is [Pojlib](https://github.com/questcraftplusplus/pojlib) and [VivecraftModQCXR](https://github.com/questcraftplusplus/vivecraftmod)
+- The repos we use are [Pojlib](https://github.com/questcraftplusplus/pojlib) and [VivecraftModQCXR](https://github.com/questcraftplusplus/vivecraftmod).
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
 - Pico support isn't planned for time being. Until then, use Vivecraft PCVR.
