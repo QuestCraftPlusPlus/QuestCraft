@@ -82,6 +82,7 @@ At the moment, Iris and Canvas do not work. Distant Horizons support is planned,
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out [MCXR](https://github.com/mcxr-org/MCXR), the previous VR mod, now replaced with [VivecraftMod](https://github.com/ferriarnus/VivecraftMod) and [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) (for Pojlib)! 
+- The repo's we use is [Pojlib](https://github.com/questcraftplusplus/pojlib) and [VivecraftModQCXR](https://github.com/questcraftplusplus/vivecraftmod)
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
 - Pico support isn't planned for time being. Until then, use Vivecraft PCVR.
