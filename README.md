@@ -18,41 +18,41 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Included Mods (Performance is key!) 
 
-**[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
+- **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
-**[Cloth Config](https://modrinth.com/mod/cloth-config)** (Libary for config screens, e.g. Video Settings)
+- **[Cloth Config](https://modrinth.com/mod/cloth-config)** (Libary for config screens, e.g. Video Settings)
 
-**[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)** (Improves chunk loading)
+- **[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)** (Improves chunk loading)
                                                                                                                                                   
-**[Entity Culling](https://modrinth.com/mod/entityculling)** (Renders only visible blocks and entities, improving overall performance)
+- **[Entity Culling](https://modrinth.com/mod/entityculling)** (Renders only visible blocks and entities, improving overall performance)
 
-**[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to basically get any mod running.)
+- **[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to basically get any mod running.)
 
-**[Ferrite Core](https://modrinth.com/mod/ferrite-core)** (Decreases memory usage by doing technical stuff)
+- **[Ferrite Core](https://modrinth.com/mod/ferrite-core)** (Decreases memory usage by doing technical stuff)
 
-**[Fastload](https://modrinth.com/mod/fastload)** (Improves world load and prevents potential crashes)
+- **[Fastload](https://modrinth.com/mod/fastload)** (Improves world load and prevents potential crashes)
 
-**[Immediately Fast](https://modrinth.com/mod/immediatelyfast)** (Optimizes lots of things, making rendering more GPU efficient)
+- **[Immediately Fast](https://modrinth.com/mod/immediatelyfast)** (Optimizes lots of things, making rendering more GPU efficient)
 
-**[Krypton](https://modrinth.com/mod/krypton)** (Slightly reduces memory usage on servers, decreases server CPU usage and server ticks)
+- **[Krypton](https://modrinth.com/mod/krypton)** (Slightly reduces memory usage on servers, decreases server CPU usage and server ticks)
 
-**[LazyDFU](https://modrinth.com/mod/lazydfu)** (Improves game boot time, by making DataFixerUpper do less stuff)
+- **[LazyDFU](https://modrinth.com/mod/lazydfu)** (Improves game boot time, by making DataFixerUpper do less stuff)
 
-**[Lithium](https://modrinth.com/mod/lithium)** (General purpose performance mod)
+- **[Lithium](https://modrinth.com/mod/lithium)** (General purpose performance mod)
 
-**[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)** (Libary for some mods)
+- **[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)** (Libary for some mods)
 
-**[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)** (Makes Minecraft loading smoother)
+- **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)** (Makes Minecraft loading smoother)
 
-**[Sodium](https://modrinth.com/mod/sodium)** (Improves FPS and fixes graphical issues)
+- **[Sodium](https://modrinth.com/mod/sodium)** (Improves FPS and fixes graphical issues)
 
-**[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
+- **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
 
-**[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)** (Big QOL mod that changes alot of things)
+- **[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)** (Big QOL mod that changes alot of things)
 
-**[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)** (Port of Vivecraft to run on Fabric)
+- **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)** (Port of Vivecraft to run on Fabric)
 
-**[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
+- **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
 
 ## Recommended Mods
 
