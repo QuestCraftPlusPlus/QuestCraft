@@ -1,8 +1,6 @@
 # Welcome to the QuestCraft Github!
 **[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
 
-First off, you most likely want to install QuestCraft. If you would like to get going instantly then please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or mobile device.
-
 ### We are partnered with BisectHosting! Support us by going to their **[website](https://bisecthosting.com/xrcraft)** and using code "xrcraft" at checkout to get 25% off of any server over 3GB.
 
 ![sponsor image](/partnerimage.png)
@@ -10,9 +8,11 @@ First off, you most likely want to install QuestCraft. If you would like to get 
 
 **NOTE: In order to install QuestCraft, you must have an internet connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
 
-First, you need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com)** and follow the necessary steps to connect your Quest. 
+First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Andorid device..
 
-Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-left).
+Secondly, you need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
+
+Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-right).
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
