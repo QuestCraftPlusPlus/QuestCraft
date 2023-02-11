@@ -58,7 +58,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 QuestCraft is mildly slow by itself because minecraft is a very badly optimized game. QuestCraft already includes a couple of mods to enhance the performance, but here is a (not comprehensive) list of some more recommended mods to enhance the experience:                                             
 
-**NOTE: When installing (supported [as in doesn't crash]) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (Fabric API, Sodium, etc.). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)!**
+**NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (Fabric API, Sodium, etc.). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)!**
 
 - **[Architectury API](https://modrinth.com/mod/architectury-api)** (Library for plenty of mods)
 - **[Debugify](https://modrinth.com/mod/debugify)** (Fixes many Minecraft bugs)
