@@ -61,7 +61,6 @@ QuestCraft is mildly slow by itself because minecraft is a very badly optimized 
 **NOTE: When installing (supported) mods on your Quest, you may need to update a dependancy that's bundled in with QCXR (Fabric API, Sodium, etc.). However, this may lead to issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)!**
 
 - **[Architectury API](https://modrinth.com/mod/architectury-api)** (Library for plenty of mods)
-- **[Debugify](https://modrinth.com/mod/debugify)** (Fixes many Minecraft bugs)
 - **[Exordium](https://modrinth.com/mod/exordium)** (Decreases GUI framerate to speed up world rendering)
 - **[Indium](https://modrinth.com/mod/indium)** (Uses the Fabric Rendering API to allow many mods to work with Sodium) (**NOTE: You must have the latest [Sodium](https://modrinth.com/mod/sodium) version in order for the mod to work, otherwise the game WILL crash.**)
 - **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)** (Adds dynamic lights lights to Minecraft)
