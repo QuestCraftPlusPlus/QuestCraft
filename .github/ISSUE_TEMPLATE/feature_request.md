@@ -1,6 +1,6 @@
 ---
 name: Feature Suggestion
-about: Suggest an idea to QuestCraft!
+about: Suggest an idea for QuestCraft!
 title: "[FEATURE]"
 labels: feature
 assignees: CADIndie, gusbunce, ManiacGamer156
