@@ -16,7 +16,7 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
-## Included Mods (Performance is key!) 
+## Included Mods 
 
 - **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
