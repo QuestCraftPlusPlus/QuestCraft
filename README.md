@@ -16,6 +16,17 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
+# Known Issues (as of 3.1)
+- Fabulous Graphics stops the game from rendering                                                                                                   
+  **_Solution: Switch Graphics Quality to Fast or Fancy**                                                                                              
+- QuestCraft Crashes at Login/Download                                                                                                           
+ **_Solutions:                                                                                                                                         
+  Use a hotspot                                                                                                                                        
+  Try a different WiFi connection                                                                                                                      
+  Use a previous version of QuestCraft (like 3.0.1)_**                                                                                                   
+- Can't Rebind Keys                                                                                                                                    
+  _Not supported._
+
 ## Included Mods 
 
 - **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
@@ -76,7 +87,6 @@ At the moment, Iris and Canvas do not work. Distant Horizons and Immersive Porta
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entites (in this case, kelp waiting to be picked up) exist at once.
 4. Skyblock and Oneblock worlds perform the best, as they require less hardware usage.
 4. You are able to max out Biome Blend with no performance slowdowns, if on the latest version.
-
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos. 
