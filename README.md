@@ -23,7 +23,6 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entites (in this case, kelp waiting to be picked up) exist at once.
 4. Skyblock and Oneblock worlds perform the best, as they require less hardware usage.
-5. You are able to max out Biome Blend with no performance slowdowns, if on the latest version.
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
