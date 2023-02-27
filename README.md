@@ -1,9 +1,20 @@
 # Welcome to the QuestCraft Github!
-**[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
+### **[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
 
 ### We are partnered with BisectHosting! Support us by going to their **[website](https://bisecthosting.com/xrcraft)** and using code "xrcraft" at checkout to get 25% off of any server over 3GB.
 
 ![sponsor image](/partnerimage.png)
+# QuestCraft
+![QC](/QCSimple3.jpg)
+QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third party developers, over the past year we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMD’s.
+
+# Features
+- **Fully Wireless Minecraft VR!**                                                                                                                                   
+- **Full Multiplayer Available!**                                                                    
+- **Immersive controls, like punching blocks!**                                                                                                   
+- **Supports 1.19.3 and 1.18.2!**                                                                                                                                 
+- **Includes a Mod Manager to download and install mods right from your Quest!**
+
 # Installation Instructions
 
 **NOTE: In order to install QuestCraft, you must have an internet connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
@@ -15,13 +26,6 @@ Secondly, you need to install the QuestCraft APK to your VR Headset using **[Sid
 Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-right).
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
-
-# Features
-- **Wireless 360° Minecraft VR**                                                                                                                                   
-- **Fabric support, allowing for lots (NOT ALL, please consult the notes.) mods to be added!**                                                                    
-- **Immersive controls, like punching blocks with your hands!**                                                                                                   
-- **Supports 1.19.3 and 1.18.2!**                                                                                                                                 
-- **Make it even more immersive with [ImmersiveMC](https://www.curseforge.com/minecraft/mc-mods/immersivemc)!**
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
