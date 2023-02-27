@@ -15,8 +15,6 @@ Secondly, you need to install the QuestCraft APK to your VR Headset using **[Sid
 Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-right).
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
-
-## Recommended Mods (WIP)
                                                    
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
