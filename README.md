@@ -15,7 +15,14 @@ Secondly, you need to install the QuestCraft APK to your VR Headset using **[Sid
 Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-right).
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
-                                                   
+
+# Features
+- **Wireless 360° Minecraft VR**                                                                                                                                   
+- **Fabric support, allowing for lots (NOT ALL, please consult the notes.) mods to be added!**                                                                    
+- **Immersive controls, like punching blocks with your hands!**                                                                                                   
+- **Supports 1.19.3 and 1.18.2!**                                                                                                                                 
+- **Make it even more immersive with [ImmersiveMC](https://www.curseforge.com/minecraft/mc-mods/immersivemc)!**
+
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
@@ -29,6 +36,8 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (or any other device) support isn't planned for time being. Until then, use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
+- NOTE: When installing (supported) mods on your Quest, you may face issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)!
+
 ## Controls
 
 ![There's supposed to be controls here](/Control.png)
