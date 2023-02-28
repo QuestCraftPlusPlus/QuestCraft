@@ -10,11 +10,12 @@
 QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third party developers, over the past year we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMD’s.
 
 # Features
-- **Fully Wireless Roomscale Minecraft VR!**                                                                                                                                   
+- **Roomscale Minecraft VR!** 
+- **Quest and Queat 2 Native!**
 - **Full Multiplayer Available!**                                                                    
-- **Immersive Controls, Like Punching Blocks!**                                                                                                   
+- **Immersive Controls through Vivecraft, Like Punching Blocks!**                                                                                                   
 - **Supports 1.19.3 and 1.18.2!**                                                                                                                                 
-- **Includes a Unity-made launcher that allows you to start QuestCraft, switch between versions, and use Mod Manager, a tool to download and install msupported mods right from your Quest!!**
+- **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions, and use Mod Manager, a tool to download and install msupported mods right from your Quest!!**
 
 # Installation Instructions
 
