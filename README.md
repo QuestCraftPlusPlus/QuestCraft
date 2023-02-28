@@ -10,11 +10,11 @@
 QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third party developers, over the past year we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMD’s.
 
 # Features
-- **Fully Wireless Minecraft VR!**                                                                                                                                   
+- **Fully Wireless Roomscale Minecraft VR!**                                                                                                                                   
 - **Full Multiplayer Available!**                                                                    
-- **Immersive controls, like punching blocks!**                                                                                                   
+- **Immersive Controls, Like Punching Blocks!**                                                                                                   
 - **Supports 1.19.3 and 1.18.2!**                                                                                                                                 
-- **Includes a Mod Manager to download and install mods right from your Quest!**
+- **Includes a Unity-made launcher that allows you to start QuestCraft, switch between versions, and use Mod Manager, a tool to download and install msupported mods right from your Quest!!**
 
 # Installation Instructions
 
@@ -37,11 +37,11 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)** and **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib)! We also use **[VulkanMod](https://github.com/xCollateral/VulkanMod)** to enhance performance!
-- The forks we use are **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod)** 
+- The forks we use are **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod).** 
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (or any other device) support isn't planned for time being. Until then, use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
-- NOTE: When installing (supported) mods on your Quest, you may face issues, ranging from unexpected behavior to crashes! If you experience any, please [file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)!
+- When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behavior to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)**!
 
 ## Controls
 
