@@ -7,7 +7,7 @@
 # QuestCraft
 ![QC](/QCSimple3.jpg)
 
-QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third party developers, over the past year we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMD’s.
+QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third party developers, over the past year we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMDs.
 
 # Features
 - ### **Roomscale Minecraft VR!** 
@@ -19,9 +19,9 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 # Installation Instructions
 
-**NOTE: In order to install QuestCraft, you must have an internet connection in order for the inital setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
+**NOTE: In order to install QuestCraft, you must have an internet connection in order for the initial setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
 
-First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Andorid device..
+First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Android device.
 
 Secondly, you need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
 
@@ -32,8 +32,8 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
-3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entites (in this case, kelp waiting to be picked up) exist at once.
-4. Skyblock and Oneblock worlds perform the best, as they require less hardware usage.
+3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
+4. Skyblock and Oneblock worlds perform the best, as they have no world generator and typically have hardly anything to render.
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
