@@ -34,8 +34,8 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 These are renderers that you can toggle on anytime. Each of them comes with their own benefits.
 - ### GL4ES
 GL4ES ([OpenGL ES](https://www.khronos.org/opengles/#)) has moderate speed, with moderate mod compatibility. Mods like Distant Horizons may not work, and performance mods may be needed.
-- ### Zinc
-[Zinc](https://docs.mesa3d.org/drivers/zink.html), while being primarily slow, has great mod compatibility. Mods like Distant Horizons will work, but performance mods may be needed.
+- ### Zink
+[Zink](https://docs.mesa3d.org/drivers/zink.html), while being primarily slow, has great mod compatibility. Mods like Distant Horizons will work, but performance mods may be needed.
 - ### Vulkan
 [Vulkan](https://www.vulkan.org/), while very fast, comes with the cost of low mod compatibility. Mods like Distant Horizons will work, and performance mods are not needed.
 
