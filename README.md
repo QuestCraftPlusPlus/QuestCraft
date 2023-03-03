@@ -15,7 +15,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Full Multiplayer in VR!**                                                                    
 - ### **Immersive Controls through Vivecraft, Like Punching Blocks!**                                                                                                   
 - ### **Supports 1.19.3 both 1.18.2!**                                                                                                                                 
-- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions, and use Mod Manager, a tool to download and install msupported mods right from your Quest!!**
+- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!!**
 
 # Installation Instructions
 
@@ -30,13 +30,14 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
 ## Supported Renderers (Take note when installing mods!)
-### **We have a [list](mods.md) that contains supported mods between each renderer! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
+### **We have a [list](mods.md) that contains supported mods that are not in the ModManager! This helps us identify wYou can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
+These are renderers that you can toggle on anytime. Each of them comes with their own benefits.
 - ### GL4ES
-GL4ES ([OpenGL ES](https://www.khronos.org/opengles/#)) has moderate speed, with moderate mod compatibility. Mods like Distant Horizons may not work, amd performance mods may be needed.
+GL4ES ([OpenGL ES](https://www.khronos.org/opengles/#)) has moderate speed, with moderate mod compatibility. Mods like Distant Horizons may not work, and performance mods may be needed.
 - ### Zinc
-[Zinc](https://docs.mesa3d.org/drivers/zink.html), while being primarily slow, has great mod compatibility. Mods like Distant Horizons may not work, and performance mods may be needed.
+[Zinc](https://docs.mesa3d.org/drivers/zink.html), while being primarily slow, has great mod compatibility. Mods like Distant Horizons will work, but performance mods may be needed.
 - ### Vulkan
-[Vulkan](https://www.vulkan.org/), while very fast, comes with the cost of low mod compatibility. Mods like Distant Horizons will work, and prformance mods are not needed.
+[Vulkan](https://www.vulkan.org/), while very fast, comes with the cost of low mod compatibility. Mods like Distant Horizons will work, and performance mods are not needed.
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
