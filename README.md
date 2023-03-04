@@ -30,14 +30,14 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
 ## Supported Renderers (Take note when installing mods!)
-### **We have a [list](mods.md) that contains supported mods that are not in the ModManager! This helps us identify wYou can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
+### **We have a [list](mods.md) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
 These are renderers that you can toggle on anytime. Each of them comes with their own benefits.
 - ### GL4ES
-GL4ES ([OpenGL ES](https://www.khronos.org/opengles/#)) has moderate speed, with moderate mod compatibility. Mods like Distant Horizons may not work, and performance mods may be needed.
+GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Mods like Distant Horizons may not work, and performance mods are optional, but recommended.
 - ### Zink
-[Zink](https://docs.mesa3d.org/drivers/zink.html), while being primarily slow, has great mod compatibility. Mods like Distant Horizons will work, but performance mods may be needed.
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Mods like Distant Horizons will work, but performance mods are needed.
 - ### Vulkan
-[Vulkan](https://www.vulkan.org/), while very fast, comes with the cost of low mod compatibility. Mods like Distant Horizons will work, and performance mods are not needed.
+**[Vulkan](https://www.vulkan.org/)***, while very fast, comes with the cost of low mod compatibility. Mods like Distant Horizons will work, and performance mods are not needed.
 
 ## Some Recommended Settings and Tips 
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
