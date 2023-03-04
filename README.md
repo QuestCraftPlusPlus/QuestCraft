@@ -39,7 +39,7 @@ GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, 
 - ### Vulkan
 **[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Mods like Distant Horizons will work, and performance mods are not needed.
 
-## Some Recommended Settings and Tips 
+## Some Recommended Settings and Tips (For Zink and GL4ES)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
