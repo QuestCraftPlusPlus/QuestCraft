@@ -31,13 +31,14 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Supported Renderers (Take note when installing mods!)
 ### **We have a [list](mods.md) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
-These are renderers that you can toggle on anytime. Each of them comes with their own benefits.
+These are renderers that you can toggle on anytime. Each of them comes with their own benefits. Note that GL4ES and Zink already have performance mods installed. (see **[the mod list.)](!/mods)**
 - ### GL4ES
-GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Mods like Distant Horizons may not work, and performance mods are optional, but recommended.
+GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Complex mods like Distant Horizons and Immersive Portals may not work.
 - ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Mods like Distant Horizons will work, but performance mods are needed.
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Complex mods like Distant Horizons and Immersive Portals will work.
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Mods like Distant Horizons will work, and performance mods are not needed.
+**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals will work.
+
 
 ## Some Recommended Settings and Tips (For Zink and GL4ES)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
