@@ -35,9 +35,9 @@ These are renderers that you can toggle on anytime. Each of them comes with thei
 - ### GL4ES
 GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Complex mods like Distant Horizons and Immersive Portals may not work.
 - ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Complex mods like Distant Horizons and Immersive Portals will work.
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Complex mods like Distant Horizons and Immersive Portals shoiuld work.
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals will work.
+**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
 
 ## Included Mods (For GL4ES and Zink)
 
