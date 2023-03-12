@@ -77,7 +77,7 @@ GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, 
 
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
 
-
+**Iris and shaders in general are not yet available in QC. Installing any will crash the game!**
 
 ## Some Recommended Settings and Tips (For Zink and GL4ES)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
