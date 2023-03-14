@@ -81,10 +81,9 @@ GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, 
 
 ## Some Recommended Settings and Tips (For Zink and GL4ES)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
-2. The game's render distance is best at 4. 5 works, but you may encounter lag spikes when using it. 6 and above, you are on your own.
+2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
-4. Skyblock and Oneblock worlds perform the best, as they have no world generator and typically have hardly anything to render.
-
+4. [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock) and [Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock) worlds perform the best, as they require less hardware usage.
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), and **[VulkanMod](https://github.com/xCollateral/VulkanMod)** for Vulkan support!
