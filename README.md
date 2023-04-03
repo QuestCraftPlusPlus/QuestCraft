@@ -11,11 +11,12 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 # Features
 - ### **Roomscale Minecraft VR!** 
-- ### **Quest and Queat 2 Native!**
+- ### **~~Quest and~~ Quest 2 Native!**
 - ### **Full Multiplayer in VR!**                                                                    
 - ### **Immersive Controls through Vivecraft, Like Punching Blocks!**                                                                                                   
 - ### **Supports 1.19.3 both 1.18.2!**                                                                                                                                 
 - ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!!**
+**Quest 1 Support is no longer availiable due to Quest Software v51.**
 
 # Installation Instructions
 
@@ -31,15 +32,18 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Supported Renderers (Take note when installing mods!)
 ### **We have a [list](https://docs.google.com/spreadsheets/d/12yUTO_HgAEyZFoETxmzqaxPZrOUF1ocaQjbi_u5U2jI/edit?usp=sharing) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
-These are renderers that you can toggle on anytime. Each of them comes with their own benefits. **Note that GL4ES and Zink already have performance mods installed. (see [the mod list.)](https://docs.google.com/spreadsheets/d/12yUTO_HgAEyZFoETxmzqaxPZrOUF1ocaQjbi_u5U2jI/edit?usp=sharing)**
-- ### GL4ES
-GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Complex mods like Distant Horizons and Immersive Portals may not work.
+These are renderers that you can toggle on anytime. Each of them comes with their own benefits. 
+
 - ### Zink
 **[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
 - ### Vulkan
 **[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
+- ### ~~GL4ES~~
+~~GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Complex mods like Distant Horizons and Immersive Portals may not work.~~                                                                                                     
+### ***GL4ES is now considered obsolete and will be removed in a future update. Please use Zink and Vulkan from now on.***
 
-## Included Mods (For GL4ES and Zink)
+## Included Mods (For Zink)
+### These mods are preinstalled and for use with **Zink**. Vulkan will not have any, as it's fast on its own.
 
 - **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
@@ -79,7 +83,7 @@ GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, 
 
 **Iris and shaders in general are not yet available in QC. Installing any will crash the game!**
 
-## Some Recommended Settings and Tips (For Zink and GL4ES)
+## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
