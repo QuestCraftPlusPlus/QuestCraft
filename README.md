@@ -31,7 +31,7 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
 ## Supported Renderers (Take note when installing mods!)
-### **We have a [list](https://docs.google.com/spreadsheets/d/12yUTO_HgAEyZFoETxmzqaxPZrOUF1ocaQjbi_u5U2jI/edit?usp=sharing) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
+### **We have a [list](https://docs.google.com/spreadsheets/d/161gATVzDSLSEQfIVo6C8XvwUKMghUC1-8bpSdNKaTGc/edit?usp=sharing) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
 These are renderers that you can toggle on anytime. Each of them comes with their own benefits. 
 
 - ### Zink
