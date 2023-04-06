@@ -39,11 +39,9 @@ These are renderers that you can toggle on anytime. Each of them comes with thei
 - ### Vulkan
 **[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
 - ### ~~GL4ES~~
-~~GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Complex mods like Distant Horizons and Immersive Portals may not work.~~                                                                                                     
-### ***GL4ES is now considered obsolete and will be removed in a future update. Please use Zink and Vulkan from now on.***
 
 ## Included Mods (For Zink)
-### These mods are preinstalled and for use with **Zink**. Vulkan will not have any, as it's fast on its own.
+### These mods are preinstalled and for use with **Zink**. Vulkan does not have any, as it's fast on its own.
 
 - **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
@@ -88,6 +86,7 @@ These are renderers that you can toggle on anytime. Each of them comes with thei
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
 4. [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock) and [Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock) worlds perform the best, as they require less hardware usage.
+
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), and **[VulkanMod](https://github.com/xCollateral/VulkanMod)** for Vulkan support!
