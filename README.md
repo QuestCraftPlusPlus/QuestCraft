@@ -11,11 +11,12 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 # Features
 - ### **Roomscale Minecraft VR!** 
-- ### **Quest and Queat 2 Native!**
+- ### **~~Quest and~~ Quest 2 Native!**
 - ### **Full Multiplayer in VR!**                                                                    
 - ### **Immersive Controls through Vivecraft, Like Punching Blocks!**                                                                                                   
-- ### **Supports 1.19.3 both 1.18.2!**                                                                                                                                 
+- ### **Supports 1.19.4, 1.19.3, 1.19.2, and 1.18.2!**                                                                                                                                 
 - ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!!**
+**Quest 1 Support is no longer availiable due to Quest Software v51.**
 
 # Installation Instructions
 
@@ -30,22 +31,24 @@ Next, open the QuestCraft launcher on your headset. Be sure to grant it all requ
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
 ## Supported Renderers (Take note when installing mods!)
-### **We have a [list](https://docs.google.com/spreadsheets/d/12yUTO_HgAEyZFoETxmzqaxPZrOUF1ocaQjbi_u5U2jI/edit?usp=sharing) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
-These are renderers that you can toggle on anytime. Each of them comes with their own benefits. **Note that GL4ES and Zink already have performance mods installed. (see [the mod list.)](https://docs.google.com/spreadsheets/d/12yUTO_HgAEyZFoETxmzqaxPZrOUF1ocaQjbi_u5U2jI/edit?usp=sharing)**
-- ### GL4ES
-GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, with moderate mod compatibility. Complex mods like Distant Horizons and Immersive Portals may not work.
+### **We have a [list](https://docs.google.com/spreadsheets/d/161gATVzDSLSEQfIVo6C8XvwUKMghUC1-8bpSdNKaTGc/edit?usp=sharing) that contains supported mods that are not in the ModManager! You can also add to this list with this [form](https://forms.gle/TRU7NN4YdgR4oDeW9)!**
+These are renderers that you can toggle on anytime. Each of them comes with their own benefits. 
+
 - ### Zink
 **[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
 - ### Vulkan
 **[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
 
-## Included Mods (For GL4ES and Zink)
+## Included Mods (For Zink)
+### These mods are preinstalled and are for use with **Zink** in order to increase performance. Vulkan does not have any, as it's fast on its own.
 
 - **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
 - **[Cloth Config](https://modrinth.com/mod/cloth-config)** (Libary for config screens, e.g. Video Settings)
 
 - **[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)** (Improves chunk loading)
+
+- **[Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)** (Culls leaves for performance, 1.18.2 only!)
                                                                                                                                                   
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** (Renders only visible blocks and entities, improving overall performance)
 
@@ -79,18 +82,19 @@ GL4ES (**[OpenGL ES](https://www.khronos.org/opengles/#)**) has moderate speed, 
 
 **Iris and shaders in general are not yet available in QC. Installing any will crash the game!**
 
-## Some Recommended Settings and Tips (For Zink and GL4ES)
+## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
 4. [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock) and [Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock) worlds perform the best, as they require less hardware usage.
+
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), and **[VulkanMod](https://github.com/xCollateral/VulkanMod)** for Vulkan support!
-- The forks we use are **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod).** 
+- The QCXR forks we use are **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod).** 
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
-- Pico (or any other device) support isn't planned for time being. Until then, use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
+- Pico (and ONLY Pico) support is planned and will begin development after 4.0. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behavior to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)**!
 
 ## Controls
