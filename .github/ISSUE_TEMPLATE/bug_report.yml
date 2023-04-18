@@ -4,7 +4,6 @@ title: "[BUG] <title>"
 labels: ["bug"]
 assignees:
   - CADIndie
-  - gusbunce
   - ManiacGamer156
 body:
 - type: textarea

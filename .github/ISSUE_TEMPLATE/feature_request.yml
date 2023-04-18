@@ -4,7 +4,6 @@ title: "[FEATURE] <title>"
 labels: ["feature"]
 assignees:
   - CADIndie
-  - gusbunce
   - ManiacGamer156
 body:
 - type: textarea
