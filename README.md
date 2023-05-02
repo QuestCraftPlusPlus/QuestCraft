@@ -35,9 +35,9 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 ## Supported Renderers (Take note when installing mods!)
 
 - ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. 
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. Complex mods like Distant Horizons and Immersive Portals should work.
+**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. 
 
 ## Included Mods (For Zink)
 ### These mods are preinstalled and are for use with **Zink** in order to increase performance. Vulkan does not have any, as it's fast on its own.
