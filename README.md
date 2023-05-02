@@ -16,11 +16,13 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Immersive Controls through Vivecraft, Like Punching Blocks!**                                                                                                   
 - ### **Supports 1.19.4, 1.19.3, 1.19.2, and 1.18.2!**                                                                                                                                 
 - ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!!**
-**Quest 1 Support is no longer available due to Quest Software v51.**
+**Quest 1 Support is no longer available. You will need to use a QuestCraft version older than 4.0. (like 3.1.1)**
 
 # Installation Instructions
 
 **NOTE: In order to install QuestCraft, you must have an internet connection in order for the initial setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
+
+**Make sure you Quest 2 is on v51 or above before installing!**
 
 First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Android device.
 
