@@ -76,8 +76,6 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
 
-**Iris and shaders in general are not yet available in QC. Installing any will crash the game!**
-
 ## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
@@ -89,9 +87,10 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 - QuestCraft (QCXR) is developed and maintained by the QCXR team, we also contribute upstream to the open source tools that we used to make this a reality, make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), and **[VulkanMod](https://github.com/xCollateral/VulkanMod)** for Vulkan support!
 - The QCXR forks we use are **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod).** 
 - All support questions should be asked inside of the QuestCraft Discord (discord.gg/questcraft) for the best experience.
-- **questcraft.net is not maintained or owned by anyone on the QuestCraft team**, they could put malware on it at any time. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
+- **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is located here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (and ONLY Pico) support is planned and will begin development after 4.0. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behavior to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)**!
+- Shaders can be used, but expect very low performance!
 
 ## Controls
 
