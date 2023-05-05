@@ -13,10 +13,10 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Roomscale Minecraft VR!** 
 - ### **~~Quest and~~ Quest 2 Native!**
 - ### **Full Multiplayer in VR!**                                                                    
-- ### **Immersive Controls through Vivecraft, Like Punching Blocks!**                                                                                                   
+- ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.19.4, 1.19.3, 1.19.2, and 1.18.2!**                                                                                                                                 
-- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!!**
-**Quest 1 Support is no longer available. You will need to use a QuestCraft version older than 4.0. (like 3.1.1)**
+- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
+**Quest 1 Support is no longer available. You will need to use a QuestCraft version older than 4.0.0 (like [3.1.1](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/tag/3.1.1))**
 
 # Installation Instructions
 
@@ -26,33 +26,44 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Android device.
 
-Secondly, you need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
+Secondly, you need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
 
-Next, open the QuestCraft launcher on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details and wait for QuestCraft to download any remaining files (seen in the bottom-right).
+Next, open the QuestCraft launcher (through Unknown Sources) on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes), then press play again. (You will need to do this for each specific version in order to play that version!)
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on headset age and model.
 
 ## Supported Renderers (Take note when installing mods!)
 
 - ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, while being primarily slow, has great mod compatibility. 
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with a lot of mods, at the cost of performance. (which is fixed with the mods below)
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while being very fast, has low mod compatibility. 
+**[Vulkan](https://www.vulkan.org/)**, while being very fast, has doesn't work with a lot of mods. 
 
-## Included Mods (For Zink)
-### These mods are preinstalled and are for use with **Zink** in order to increase performance. Vulkan does not have any, as it's fast on its own.
+## Included Mods 
 
-- **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
+**Did you experience a mod-related crash when loading MC? Simply look through latestlog.txt on Android/data/com.qcxr.qcxr (through SideQuest), scroll to the bottom, and you should see a Fabric error, which says what mods are causing the crash, and fix it!**
+
+### Non-performance Mods:
 
 - **[Cloth Config](https://modrinth.com/mod/cloth-config)** (Libary for config screens, e.g. Video Settings)
 
+- **[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to basically get any mod running.)
+
+- **[Mod Menu](https://modrinth.com/mod/modmenu)** (Menu that lists the currently intsalled mods and update them, and if **[YACL](https://modrinth.com/mod/yacl)** is installed, can configure mods!)
+
+- **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
+
+- **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)** (Port of Vivecraft to run on Fabric)
+
+### Performance Mods: (for Zink)
+
+- **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
+
 - **[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)** (Improves chunk loading)
 
-- **[Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)** (Culls leaves for performance, 1.18.2 only!)
+- **[Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)** (Culls leaves for performance)
                                                                                                                                                   
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** (Renders only visible blocks and entities, improving overall performance)
-
-- **[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to basically get any mod running.)
 
 - **[Ferrite Core](https://modrinth.com/mod/ferrite-core)** (Decreases memory usage by doing technical stuff)
 
@@ -62,11 +73,11 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 - **[Krypton](https://modrinth.com/mod/krypton)** (Slightly reduces memory usage on servers, decreases server CPU usage and server ticks)
 
-- **[LazyDFU](https://modrinth.com/mod/lazydfu)** (Improves game boot time, by making DataFixerUpper do less stuff)
+- **[LazyDFU](https://modrinth.com/mod/lazydfu)** (Improves game boot time)
 
 - **[Lithium](https://modrinth.com/mod/lithium)** (General purpose performance mod)
 
-- **[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)** (Libary for some mods)
+- **[Noxesium](https://modrinth.com/mod/noxesium)** (Adds features to fix bugs and performance)
 
 - **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)** (Makes Minecraft loading smoother)
 
@@ -74,15 +85,11 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
 
-- **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)** (Port of Vivecraft to run on Fabric)
-
-- **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
-
 ## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
 3. Oceans contain LOTS of kelp that decrease framerate. Don't mine any of it all at once, as your game may CRASH if lots of entities (in this case, kelp waiting to be picked up) exist at once.
-4. [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock) and [Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock) worlds perform the best, as they require less hardware usage.
+4. **[Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
