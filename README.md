@@ -22,7 +22,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 **NOTE: In order to install QuestCraft, you must have an internet connection in order for the initial setup to succeed. Furthermore, you MUST own a legal, valid copy of Minecraft: Java Edition to play!**
 
-**Make sure you Quest 2 is on v51 or later before installing!**
+**Make sure your Quest 2 is on v51 or later before installing!**
 
 First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Android device.
 
