@@ -44,7 +44,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 **Did you experience a mod-related crash when loading MC? You can do 2 of these solutions to dind the cause and fix it!**
 
 **Easy Way**                                                                                                                                                                                                                                                                                  
-Join the QuestCraft Discord Server at **discord.gg/questcraft** and go to #bot-commands. Type /logs and upload your log file from com.qcxr.qcxr using SideQuest or Windows Explorer. The QuestCraft Bot, Crafty, will give you feedback and help you fix any issues.
+Join the QuestCraft Discord Server at **discord.gg/questcraft** and go to #bot-commands. Type /logs and upload your log file (which can be retrieved from Android/data/com.qcxr.qcxr using a file viewer e.g Windows Explorer). The QuestCraft Bot, Crafty, will give you feedback and help you fix any issues.
 
 **Manual Way**                                                                                                                                                                                                                                                                                      
 To find out what caused the crash, open the latestlog.txt file. You can find it in Android/data/com.qcxr.qcxr with a file viewer. Go to the bottom of the file and look for a Fabric error message. This message will tell you which mods caused the crash. Once you know what caused the problem, you can fix it.
