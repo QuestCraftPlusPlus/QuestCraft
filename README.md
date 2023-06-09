@@ -49,7 +49,7 @@ Join the QuestCraft Discord Server at **discord.gg/questcraft** and go to #bot-c
 **Manual Way**                                                                                                                                                                                                                                                                                      
 To find out what caused the crash, open the latestlog.txt file. You can find it in Android/data/com.qcxr.qcxr with a file viewer. Go to the bottom of the file and look for a Fabric error message. This message will tell you which mods caused the crash. Once you know what caused the problem, you can fix it.
 
-If neither of these solutions help, please go to the support channel of the QuestCraft Discord (discord.gg/questcraft). 
+If neither of these solutions helped you, please go to the support channel of the QuestCraft Discord (discord.gg/questcraft). 
 
 ### Non-Performance Mods:
 
