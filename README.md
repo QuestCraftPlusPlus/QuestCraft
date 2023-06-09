@@ -41,7 +41,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Included Mods 
 
-**Did you experience a mod-related crash when loading MC? You can do 2 of these solutions to find the cause and fix it!**
+**Did you experience a mod-related crash when loading MC? You can do 1 of these solutions to find the cause and fix it!**
 
 **Easy Way**                                                                                                                                                                                                                                                                                  
 Join the QuestCraft Discord Server at **discord.gg/questcraft** and go to #bot-commands. Type /logs and upload your log file (which can be retrieved from Android/data/com.qcxr.qcxr using a file viewer e.g Windows Explorer). The QuestCraft Bot, Crafty, will give you feedback and help you fix any issues.
