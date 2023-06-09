@@ -16,7 +16,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.18.2, 1.19.2-4, and 1.20.0!!**                                                                                                                                 
 - ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
-**Quest 1 Support is no longer available. You can't use any version of QuestCraft on it.)**
+**Quest 1 Support is no longer available. You can't use any version of QuestCraft on it.**
 
 # Installation Instructions
 
