@@ -55,7 +55,7 @@ To find out what caused the crash, open the latestlog.txt file. You can find it 
 
 - **[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to basically get any mod running.)
 
-- **[Mod Menu](https://modrinth.com/mod/modmenu)** (Menu that lists the currently intsalled mods and update them, and if **[YACL](https://modrinth.com/mod/yacl)** is installed, can configure mods!)
+- **[Mod Menu](https://modrinth.com/mod/modmenu)** (Menu that lists the currently installed mods and if **[YACL](https://modrinth.com/mod/yacl)** is installed, can configure them!)
 
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
 
