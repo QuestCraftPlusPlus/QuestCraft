@@ -37,7 +37,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 - ### Zink
 **[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with a lot of mods, at the cost of performance. (which is fixed with the performance mods below)
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while being very fast, has doesn't work with a lot of mods. 
+**[Vulkan](https://www.vulkan.org/)**, while being very fast, doesn't work with a lot of mods. 
 
 ## Included Mods 
 
