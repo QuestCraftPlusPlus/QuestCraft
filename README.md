@@ -15,7 +15,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.18.2, 1.19.2-4, and 1.20.0!!**                                                                                                                                 
-- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
+- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, automatically updates installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
 **Quest 1 Support is no longer available. You can't use any version of QuestCraft on it.**
 
 # Installation Instructions
@@ -28,7 +28,9 @@ First off, you most likely want to install QuestCraft. Please go to the release 
 
 Secondly, you need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
 
-Next, open the QuestCraft launcher (through Unknown Sources) on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes). (You will need to do this for each specific version in order to play that version!)
+Next, open the QuestCraft launcher (through Unknown Sources) on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes).  (You will need to do this for each specific version in order to play that version!)
+
+**NOTE: You may encounter crashes when installing, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret, just launch the app again, press play again, and the download will continue where it ledt of beforev the crash.**
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on the headset's age.
 
@@ -68,8 +70,6 @@ If neither of these solutions helped you, please go to the support channel of th
 - **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
 
 - **[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)** (Improves chunk loading)
-
-- **[Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)** (Culls leaves for performance)
                                                                                                                                                   
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** (Renders only visible blocks and entities, improving overall performance)
 
@@ -84,6 +84,8 @@ If neither of these solutions helped you, please go to the support channel of th
 - **[LazyDFU](https://modrinth.com/mod/lazydfu)** (Improves game boot time)
 
 - **[Lithium](https://modrinth.com/mod/lithium)** (General purpose performance mod)
+
+- **[More Culling](https://modrinth.com/mod/moreculling)** (Culling mod to improve performance) 
 
 - **[Noxesium](https://modrinth.com/mod/noxesium)** (Adds features to fix bugs and performance)
 
