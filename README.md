@@ -67,7 +67,7 @@ If neither of these solutions helped you, please go to the support channel of th
 
 ### Performance Mods: (for Zink)
 
-- **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting)                                                                                                                           
+- **[Better Biome Blend](https://modrinth.com/mod/better-biome-blend)** (Fixes and adds features to the Biome Blend setting, improving biome looks and improving performance)                                                                                                                    
 
 - **[Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)** (Improves chunk loading)
                                                                                                                                                   
