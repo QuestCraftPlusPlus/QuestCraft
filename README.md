@@ -1,7 +1,6 @@
 # Welcome to the QuestCraft GitHub!
 ### **[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
 
-![sponsor image](/partnerimage.png)
 # QuestCraft
 ![QC](/QCSimple3.jpg)
 
