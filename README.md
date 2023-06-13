@@ -1,8 +1,6 @@
 # Welcome to the QuestCraft GitHub!
 ### **[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
 
-### We are partnered with BisectHosting! Support us by going to their **[website](https://bisecthosting.com/xrcraft)** and using code "xrcraft" at checkout to get 25% off of any server over 3GB.
-
 ![sponsor image](/partnerimage.png)
 # QuestCraft
 ![QC](/QCSimple3.jpg)
