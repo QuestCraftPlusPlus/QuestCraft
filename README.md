@@ -27,7 +27,7 @@ Secondly, you need to install the QuestCraft APK to your VR Headset using **[Sid
 
 Next, open the QuestCraft launcher (through Unknown Sources) on your headset. Be sure to grant it all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes).  (You will need to do this for each specific version in order to play that version!)
 
-**NOTE: You may encounter crashes when installing, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret, just launch the app again, press play again, and the download will continue where it left of before the crash.**
+**NOTE: You may encounter crashes when downloding your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret, just launch the app again, press play again, and the download will continue where it left of before the crash. If it persists, keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/questcraft)**
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load, it might take a while depending on the headset's age.
 
@@ -91,6 +91,8 @@ If neither of these solutions helped you, please go to the support channel of th
 - **[Sodium](https://modrinth.com/mod/sodium)** (Improves FPS and fixes graphical issues)
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
+
+**Iris will only work on 1.18.2 and maybe even 1.19.2, please keep in mind that FPS will not be high and crashing is more likely!**
 
 ## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality, but will give an extra performance boost.
