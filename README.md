@@ -100,9 +100,10 @@ If neither of these solutions helped you, please go to the support channel of th
 3. Oceans contain LOTS of kelp that decreases framerate. Don't mine any of it all at once, as your game may CRASH if many entities (in this case, kelp waiting to be picked up) exist simultaneously.
 4. **[Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
-# Recommended servers
-1. **MinecraftVR** - `MinecraftVR.mysrv.us`
+# Known compatible servers
+1. **Ross light network** - `mc.rosslight.network:19132`
 2. **TSC** - `mc.playtsc.com`
+3. **The Bones Network** - `play.bones.network`
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
