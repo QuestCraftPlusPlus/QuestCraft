@@ -12,9 +12,8 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.18.2 (most stable version), 1.19.2-4, and 1.20.0-1!****                                                                                                                                 
-- ### **Includes a Unity and Pojlib-built *launcher* that allows you to start QuestCraft, switch between versions and renderers, automatically update installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
-**\*Quest 1 Support is no longer available. You can't use any version of QuestCraft on it.**                                                                                                                                                                                           
-****1.19.3 and above are kind of unstable and may crash frequently. 1.20.0 and 1.20.1 are extremely unstable and can only play servers. This WILL be fixed in a hotfix!**
+- ### **Includes a launcher that allows you to start QuestCraft, switch between versions and renderers, automatically update installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
+**\*Quest 1 Support is no longer available.**                                                                                                                                                                                          *
 
 # Installation Instructions
 
