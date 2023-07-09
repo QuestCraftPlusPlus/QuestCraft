@@ -13,7 +13,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.18.2 (most stable version), 1.19.2-4, and 1.20.0-1!****                                                                                                                                 
 - ### **Includes a launcher that allows you to start QuestCraft, switch between versions and renderers, automatically update installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!**
-**\*Quest 1 Support is no longer available.**                                                                                                                                                                                          *
+**\*Quest 1 Support is no longer available.**                                                                                                                                                                                       
 
 # Installation Instructions
 
@@ -25,18 +25,18 @@ First off, you most likely want to install QuestCraft. Please go to the release 
 
 Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
 
-Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure to grant all requested permissions. Once complete, follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes).  (You must do this for each specific version to play that version!)
+Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes).  (You must do this for each specific version to play that version!)
 
-**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret; just launch the app again, press play again, and the download will continue where it left of before the crash. If it persists, keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/questcraft)**
+**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret; launch the app again, press play again, and the download will continue where it left of before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/questcraft)**
 
-And boom! You have successfully installed QuestCraft on your VR headset! To play, simply press the **Play** button and wait for it to load; depending on the headset's age, it might take a while.
+And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset's age, it might take a while.
 
 ## Supported Renderers (Take note when installing mods!)
 
 - ### Zink
 **[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is fixed with the performance mods below)
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while very fast, doesn't work with many mods. 
+**[Vulkan](https://www.vulkan.org/)**, while very fast, only works with a lot mods. For a list, please see the pinned discussion in #discussion on the **[VulkanMod Server](https://discord.gg/FVXg7AYR2Q)**. VulkanMod is not affiliated with us, so please don't ask and spam the devs questions related to QuestCraft! 
 
 ## Included Mods 
 
@@ -46,9 +46,9 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 Join the QuestCraft Discord Server at **discord.gg/questcraft** and go to #bot-commands. Type /logs and upload your log file (which can be retrieved from Android/data/com.qcxr.qcxr using a file viewer e.g Windows Explorer). The QuestCraft Bot, Crafty, will give you feedback and help you fix any issues.
 
 **Manual Way**                                                                                                                                                                                                                                                                                      
-To find out what caused the crash, open the latestlog.txt file. You can find it in Android/data/com.qcxr.qcxr with a file viewer. Go to the bottom of the file and look for a Fabric error message. This message will tell you which mods caused the crash. Once you know what caused the problem, you can fix it.
+To find out what caused the crash, you can open the latestlog.txt file. You can find it in Android/data/com.qcxr.qcxr with a file viewer. You can go to the bottom of the file and look for a Fabric error message. This message will tell you which mods caused the crash. Once you know what caused the problem, you can fix it.
 
-If neither of these solutions helped you, please go to the support channel of the QuestCraft Discord (discord.gg/questcraft). 
+If you need help with these solutions, please go to the support channel of the QuestCraft Discord (discord.gg/questcraft). 
 
 ### Non-Performance Mods:
 
