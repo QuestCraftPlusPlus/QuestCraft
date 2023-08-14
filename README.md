@@ -33,11 +33,11 @@ Secondly, install the QuestCraft APK to your VR Headset using **[SideQuest](http
 
 Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure to grant all requested permissions (Microphone permissions are for Simple Voice Chat!). Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes).  (You must do this for each specific version to play that version!)
 
-And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset's age, it might take a while.
+And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset, it might take a while.
 
 ### DO NOT ENABLE SEATED MODE!
 
-**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret; launch the app again, press play again, and the download will continue where it left off before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/QuestCraft).**
+**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because of a memory leak on Meta's end. Don't fret; launch the app again, press play again, and the download will continue where it left off before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/QuestCraft).**
 
 ## Renderers 
 
