@@ -16,8 +16,8 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Quest 2 Native!\***
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls!**                                                                                                   
-- ### **Supports 1.18.2, 1.19.2-4, and 1.20.0-1!**                                                                                                                              
-- ### **Includes a launcher that allows you to start QuestCraft, as well as switch between versions, automatically update installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!\****
+- ### **Supports 1.18.2, 1.19.2-4, and 1.20.1!**                                                                                                                              
+- ### **Includes a launcher that allows you to start QuestCraft, as well as switch between versions, update installed mods and other MC components in milliseconds, and using Mod Manager, download and install supported mods right from your Quest!\****
 **\*Quest 1 Support is no longer available.**
 
 
