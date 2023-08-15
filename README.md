@@ -139,4 +139,3 @@ These controls are subject to change.
   <img src="https://contrib.rocks/image?repo=QuestCraftPlusPlus/QuestCraft" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
