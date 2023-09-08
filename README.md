@@ -39,15 +39,6 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 **NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because of a memory leak on Meta's end. Don't fret; launch the app again, press play again, and the download will continue where it left off before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/QuestCraft).**
 
-## Renderers 
-
-- ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is fixed with the performance mods below)
-- ### ~Vulkan~
-**~[Vulkan](https://www.vulkan.org/)~**~, while very fast, only works with a lot mods. For a list, please see the pinned discussion in #discussion on the **[VulkanMod Server](https://discord.gg/FVXg7AYR2Q)**. VulkanMod is not affiliated with us, so please don't ask and spam the devs with questions related to QuestCraft!~
-
-**Vulkan may or may not be added to QuestCraft, and if not, it will probably be substituted with more performance mods to Zink.**
-
 ## Included Mods 
 
 **Did you experience a mod-related crash when loading MC? It's simple to fix it!**
