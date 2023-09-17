@@ -91,7 +91,7 @@ If you need help with these solutions, please go to the support channel of the Q
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
 
-**Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!**
+**Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
 **There may be more mods, please check out [this](https://github.com/QuestCraftPlusPlus/Pojlib/blob/QuestCraft/mods.json) for aditional information.**
 
 ## Some Recommended Settings and Tips (For Zink)
