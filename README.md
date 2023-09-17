@@ -37,6 +37,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 **[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is fixed with the performance mods below)
 - ### Vulkan
 **[Vulkan](https://www.vulkan.org/)**, while very fast, only works with a lot mods. For a list, please see the pinned discussion in #discussion on the **[VulkanMod Server](https://discord.gg/FVXg7AYR2Q)**. VulkanMod is not affiliated with us, so please don't ask and spam the devs questions related to QuestCraft! 
+*Vulkan is not yet out for QuestCraft, please wait!*
 
 ## Included Mods 
 
@@ -55,8 +56,6 @@ If you need help with these solutions, please go to the support channel of the Q
 - **[Cloth Config](https://modrinth.com/mod/cloth-config)** (Libary for config screens, e.g. Video Settings)
 
 - **[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to get any mod running.)
-
-- **[Mod Menu](https://modrinth.com/mod/modmenu)** (Menu that lists the currently installed mods and if **[YACL](https://modrinth.com/mod/yacl)** is installed, can configure them!)
 
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
 
@@ -93,6 +92,7 @@ If you need help with these solutions, please go to the support channel of the Q
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
 
 **Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!**
+**There may be more mods, please check out [this](https://github.com/QuestCraftPlusPlus/Pojlib/blob/QuestCraft/mods.json) for aditional information.**
 
 ## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality but will give an extra performance boost.
@@ -101,7 +101,7 @@ If you need help with these solutions, please go to the support channel of the Q
 4. **[Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
 # Known compatible servers
-1. **Ross light network** - `mc.rosslight.network:19132`
+1. **Ross Light Network** - `mc.rosslight.network`
 2. **TSC** - `mc.playtsc.com`
 3. **The Bones Network** - `play.bones.network`
 
