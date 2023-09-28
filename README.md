@@ -98,7 +98,7 @@ If you need help with these solutions, please go to the support channel of the Q
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality but will give an extra performance boost.
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
 3. Oceans contain LOTS of kelp that decreases framerate. Don't mine any of it all at once, as your game may CRASH if many entities (in this case, kelp waiting to be picked up) exist simultaneously.
-4. **[Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
+4. **[Skyblock](https://minecraft.wiki/w/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
 # Known compatible servers
 1. **Ross light network** - `mc.rosslight.network:19132`
