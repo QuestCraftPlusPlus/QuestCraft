@@ -101,7 +101,7 @@ If you need help with these solutions, please go to the support channel of the Q
 4. **[Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
 # Known compatible servers
-1. **Ross Light Network** - `mc.rosslight.network`
+1. **RossLight Network (RLTN)** - `mc.rosslight.network`
 2. **TSC** - `mc.playtsc.com`
 3. **The Bones Network** - `play.bones.network`
 
