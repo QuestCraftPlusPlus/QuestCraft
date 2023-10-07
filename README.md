@@ -34,7 +34,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 ## Supported Renderers (Take note when installing mods!)
 
 - ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is fixed with the performance mods below)
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is mostly fixed with the performance mods below)
 - ### Vulkan
 **[Vulkan](https://www.vulkan.org/)**, while very fast, it may only works with a small amount of mods. For a list, please see the pinned discussion in #discussion on the **[VulkanMod Server](https://discord.gg/FVXg7AYR2Q)**. VulkanMod is not affiliated with us, so please don't ask and spam the devs questions related to QuestCraft! 
 *Vulkan is not yet out for QuestCraft, please wait!*
