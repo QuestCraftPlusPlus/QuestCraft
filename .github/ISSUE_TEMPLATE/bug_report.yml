@@ -28,8 +28,8 @@ body:
     label: 🥽 Headset Details
     description: Heplful needed info
     placeholder: |
-      Quest Build: [e.g. v37.0]
-      Device: [e.g. Quest_1, Quest_2]
+      Quest Build: [e.g. v51.0]
+      Device: [e.g. Quest_2, Quest_3]
       QuestCraft Version [e.g. v1.2.3]
   validations:
     required: true
