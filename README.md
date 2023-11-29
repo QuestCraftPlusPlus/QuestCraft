@@ -34,29 +34,28 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 ## Supported Renderers (Take note when installing mods!)
 
 - ### Zink
-**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is fixed with the performance mods below)
+**[Zink](https://docs.mesa3d.org/drivers/zink.html)**, works with many mods, at the cost of performance. (which is mostly fixed with the performance mods below)
 - ### Vulkan
-**[Vulkan](https://www.vulkan.org/)**, while very fast, only works with a lot mods. For a list, please see the pinned discussion in #discussion on the **[VulkanMod Server](https://discord.gg/FVXg7AYR2Q)**. VulkanMod is not affiliated with us, so please don't ask and spam the devs questions related to QuestCraft! 
+**[Vulkan](https://www.vulkan.org/)**, while very fast, it may only works with a small amount of mods. For a list, please see the pinned discussion in #discussion on the **[VulkanMod Server](https://discord.gg/FVXg7AYR2Q)**. VulkanMod is not affiliated with us, so please don't ask and spam the devs questions related to QuestCraft! 
+*Vulkan is not yet out for QuestCraft, please wait!*
 
 ## Included Mods 
 
 **Did you experience a mod-related crash when loading MC? You can do 1 of these solutions to find the cause and fix it!**
 
 **Easy Way**                                                                                                                                                                                                                                                                                  
-Join the QuestCraft Discord Server at **discord.gg/questcraft** and go to #bot-commands. Type /logs and upload your log file (which can be retrieved from Android/data/com.qcxr.qcxr using a file viewer e.g Windows Explorer). The QuestCraft Bot, Crafty, will give you feedback and help you fix any issues.
+Join the QuestCraft [Discord Server](https://discord.gg/questcraft) and go to #bot-commands. Type /logs and upload your log file (which can be retrieved from Android/data/com.qcxr.qcxr using a file viewer e.g Windows Explorer). The QuestCraft Bot, Crafty, will give you feedback and help you fix any issues.
 
 **Manual Way**                                                                                                                                                                                                                                                                                      
 To find out what caused the crash, you can open the latestlog.txt file. You can find it in Android/data/com.qcxr.qcxr with a file viewer. You can go to the bottom of the file and look for a Fabric error message. This message will tell you which mods caused the crash. Once you know what caused the problem, you can fix it.
 
-If you need help with these solutions, please go to the support channel of the QuestCraft Discord (discord.gg/questcraft). 
+If you need help with these solutions, please go to the support channel of the QuestCraft [Discord](https://discord.gg/questcraft). 
 
 ### Non-Performance Mods:
 
 - **[Cloth Config](https://modrinth.com/mod/cloth-config)** (Libary for config screens, e.g. Video Settings)
 
 - **[Fabric API](https://modrinth.com/mod/fabric-api)** (API for Fabric. Essential to get any mod running.)
-
-- **[Mod Menu](https://modrinth.com/mod/modmenu)** (Menu that lists the currently installed mods and if **[YACL](https://modrinth.com/mod/yacl)** is installed, can configure them!)
 
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** (Adds proximity voice chat)
 
@@ -92,7 +91,8 @@ If you need help with these solutions, please go to the support channel of the Q
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine)
 
-**Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!**
+**Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
+**There may be more mods, please check out [this](https://github.com/QuestCraftPlusPlus/Pojlib/blob/QuestCraft/mods.json) for aditional information.**
 
 ## Some Recommended Settings and Tips (For Zink)
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality but will give an extra performance boost.
@@ -101,13 +101,13 @@ If you need help with these solutions, please go to the support channel of the Q
 4. **[Skyblock](https://minecraft.wiki/w/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
 # Known compatible servers
-1. **Ross light network** - `mc.rosslight.network:19132`
+1. **RossLight Network (RLTN)** - `mc.rosslight.network`
 2. **TSC** - `mc.playtsc.com`
 3. **The Bones Network** - `play.bones.network`
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
-- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), and **[VulkanMod](https://github.com/xCollateral/VulkanMod)** for Vulkan support!
+- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Zink](https://docs.mesa3d.org/drivers/zink.html) for our current renderer and **[VulkanMod](https://github.com/xCollateral/VulkanMod)**!
 - The QCXR forks we use are: **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod).** 
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
