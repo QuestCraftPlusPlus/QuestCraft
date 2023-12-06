@@ -100,11 +100,6 @@ If you need help with these solutions, please go to the support channel of the Q
 3. Oceans contain LOTS of kelp that decreases framerate. Don't mine any of it all at once, as your game may CRASH if many entities (in this case, kelp waiting to be picked up) exist simultaneously.
 4. **[Skyblock](https://minecraft.wiki/w/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
-# Known compatible servers
-1. **RossLight Network (RLTN)** - `mc.rosslight.network`
-2. **TSC** - `mc.playtsc.com`
-3. **The Bones Network** - `play.bones.network`
-
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Zink](https://docs.mesa3d.org/drivers/zink.html) for our current renderer and **[VulkanMod](https://github.com/xCollateral/VulkanMod)**!
