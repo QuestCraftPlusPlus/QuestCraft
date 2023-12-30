@@ -8,7 +8,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 # Features
 - ### **Roomscale Minecraft VR!** 
-- ### **Quest 2/3 Native!\***
+- ### **Quest 2/Pro/3 Native!\***
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.18.2 (most stable version as of now), 1.19.2/4, and 1.20.0-1!****                                                                                                                                 
@@ -33,8 +33,6 @@ Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure
 And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset's age, it might take a while.
 
 ### DO NOT ENABLE SEATED MODE!
-
-**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because of a memory leak on Meta's end. Don't fret; relaunch the app, press play again, and the download will continue where it left off before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/QuestCraft).**
 
 ## Included Mods 
 
