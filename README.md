@@ -11,7 +11,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Quest 1/2/Pro/3 Native!\***
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
-- ### **Supports 1.18.2 (most stable version as of now), 1.19.2/4, and 1.20.0-1!****                                                                                                                                 
+- ### **Supports 1.18.2 (most stable version as of now), 1.19.2/4, and 1.20.1-2/4!**                                                                                                                                 
 - ### **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!\****                                                                      
 
 **\*Playing on a Quest 1 may have some caveats. A list of said caveats will be provided later.**                                                                                                           
@@ -92,10 +92,8 @@ If you need help with crashes and other issues, please go to the support channel
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine. Not included in 1.20.1 and later)
 
-**A table showing these mods and their supported versions in a better and more visually appealing way is coming soon!**
-**Some mods listed above may be available only in specific MC versions.**
+**A table showing these mods and their supported versions in a better and more visually appealing way is coming soon!**\
 **Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
-**There may be more mods; please check out [this file](https://github.com/QuestCraftPlusPlus/Pojlib/blob/QuestCraft/mods.json) for additional information.**
 
 ## Some Recommended Settings and Tips
 1. In-game, Go to Options/VR Settings/Stereo Rendering in the options menu and set the resolution (NOT CAMERA RES) to 80%. Doing this will decrease the general resolution but will give an extra performance boost.
