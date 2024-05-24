@@ -1,10 +1,9 @@
 # Welcome to the QuestCraft GitHub!
-### **[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
-
-# QuestCraft
 ![QC](/QCSimple3.jpg)
 
 QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third-party developers, over the past year, we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMDs.
+
+### **[Support us on Patreon!](https://patreon.com/QuestCraftXR)**
 
 # Features
 - ### **Roomscale Minecraft VR!** 
@@ -29,11 +28,11 @@ Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQu
 
 Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (approx. 10 minutes).  (You must do this for each specific version to play that version!)
 
-**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks for some reason. Don't fret; launch the app, press play, and the download will continue from where it left off before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/questcraft)**
-
 And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset's age, it might take a while.
 
-### DO NOT ENABLE SEATED MODE!
+**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks for some reason. Don't fret; launch the app, press play, and the download will continue from where it left off before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the QuestCraft Discord (discord.gg/questcraft)**
+
+### Please do not enable seated mode in the in-game VR settings!
 
 ## Included Mods 
 
@@ -93,7 +92,7 @@ If you need help with crashes and other issues, please go to the support channel
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine. Not included in 1.20.1 and later)
 
 **A table showing these mods and their supported versions in a better and more visually appealing way is coming soon!**\
-**Iris will only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
+**Iris -may- only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
 
 ## Some Recommended Settings and Tips
 1. In-game, Go to Options/VR Settings/Stereo Rendering in the options menu and set the resolution (NOT CAMERA RES) to 80%. Doing this will decrease the general resolution but will give an extra performance boost.
@@ -104,7 +103,7 @@ If you need help with crashes and other issues, please go to the support channel
 # Notes
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
-- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Zink](https://docs.mesa3d.org/drivers/zink.html) for our current renderer and **[VulkanMod](https://github.com/xCollateral/VulkanMod)**!
+- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib), **[Zink](https://docs.mesa3d.org/drivers/zink.html)**!
 - The QCXR forks we use are: **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, and **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod).** 
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - Pico (and ONLY Pico) support is planned and is currently being developed. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
