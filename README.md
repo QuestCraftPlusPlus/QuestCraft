@@ -31,7 +31,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 ## Supported Renderer
 
 **Regal**
-We use a renderer named Regal, a almost perfect renderer for Minecraft. You may find issues, you can see some renderer specific issues on our Discord, and in the known-issues-5•0
+We use an renderer named Regal, a almost perfect renderer for Minecraft. You may find issues, you can see some renderer specific issues on our Discord, and in the known-issues-5•0
 
 ## Included Mods 
 
