@@ -67,7 +67,6 @@ If you need help with these solutions, please go to the support channel of the Q
 - **[VivecraftMod (Minecraft VR Mod)](https://github.com/questcraftplusplus/vivecraftmod)**
 - **[Unity Env (Launcher Wrapper)](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper).** 
 
-
 ## Controls
 
 ![There's supposed to be controls here](/Control.png)
