@@ -56,11 +56,16 @@ If you need help with these solutions, please go to the support channel of the Q
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Zink](https://docs.mesa3d.org/drivers/zink.html) for our current renderer and **[VulkanMod](https://github.com/xCollateral/VulkanMod)**!
-- The QCXR forks we use are: **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**, **[VulkanMod](https://github.com/QuestCraftPlusPlus/VulkanMod),** and **[Unity Env](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper).** 
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (and ONLY Pico) support is planned and is currently in development. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)** or go to the **[Discord server](https://discord.gg/questcraft/)**!
+
+# This project is open source...
+...but you don't find source code in this repo. You can find the source code for each subproject in their respective repos:
+- **[Pojlib (Launcher library)](https://github.com/questcraftplusplus/pojlib)**
+- **[VivecraftMod (Minecraft VR Mod)](https://github.com/questcraftplusplus/vivecraftmod)**
+- **[Unity Env (Launcher Wrapper)](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper).** 
 
 ## Controls
 
