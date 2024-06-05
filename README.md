@@ -65,9 +65,7 @@ If you need help with these solutions, please go to the support channel of the Q
 ...tho you don't find any code parts in this repo. You can find the code for each subproject in their respective repos:
 - **[Pojlib (Launcher library)](https://github.com/questcraftplusplus/pojlib)**
 - **[VivecraftMod (Minecraft VR Mod)](https://github.com/questcraftplusplus/vivecraftmod)**
-- **[VulkanMod (Renderer)](https://github.com/QuestCraftPlusPlus/VulkanMod),**
 - **[Unity Env (Launcher Wrapper)](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper).** 
-
 
 
 ## Controls
