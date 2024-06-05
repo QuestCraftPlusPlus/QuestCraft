@@ -62,7 +62,7 @@ If you need help with these solutions, please go to the support channel of the Q
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)** or go to the **[Discord server](https://discord.gg/questcraft/)**!
 
 # This project is open source...
-...tho you don't find any code parts in this repo. You can find the code for each subproject in their respective repos:
+...but you don't find source code in this repo. You can find the source code for each subproject in their respective repos:
 - **[Pojlib (Launcher library)](https://github.com/questcraftplusplus/pojlib)**
 - **[VivecraftMod (Minecraft VR Mod)](https://github.com/questcraftplusplus/vivecraftmod)**
 - **[Unity Env (Launcher Wrapper)](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper).** 
