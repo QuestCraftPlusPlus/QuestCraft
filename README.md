@@ -10,11 +10,11 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Quest 1/2/Pro/3 Native!\***
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
-- ### **Supports 1.18.2 (most stable version as of now), 1.19.2/4, and 1.20.1-2/4!**                                                                                                                                 
-- ### **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in milliseconds, and use Mod Manager, a tool to download and install supported mods right from your Quest!\****                                                                      
+- ### **Supports 1.19.2/4, and 1.20.1-2/4!**                                                                                                                                 
+- ### **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components, and use Mod Manager, a tool to download and install supported mods right from your Quest!\****                                                                      
 
 **\*Playing on a Quest 1 may have some caveats. A list of said caveats will be provided later.**                                                                                                           
-***\*Not all mods are on ModManager. If a mod you are looking for is not available, you can install it manually.** 
+***\*If a mod you are looking for is not available, you can install it manually.** 
 
 # Installation Instructions
 
@@ -26,7 +26,7 @@ First, go to the release page for **[QuestCraft](https://github.com/QuestCraftPl
 
 Secondly, you'll need to install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
 
-Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (approx. 5-10 minutes).  (You must do this for each specific version to play that version!)
+Next, open your headset's QuestCraft launcher (through Unknown Sources). Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to set up QuestCraft with your Microsoft Account, then press play and wait for all of the files to download (approx. 5-10 minutes).  (You must do this for each specific version to play that version!)
 
 And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset's age, it might take a while.
 
@@ -35,13 +35,6 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 ### Please do not enable seated mode in the in-game VR settings!
 
 ## Included Mods 
-
-**Did you experience a mod-related crash when loading MC? It's (kind of) simple to fix it!**
-                                                                                                                                                                                                                                                                                  
-Join the QuestCraft Discord Server at **discord.gg/QuestCraft** and go to #bot-commands. Type /logs and upload your log file (which can be retrieved from Android/data/com.qcxr.qcxr using a file viewer (e.g. **Windows Explorer** or **[Android File Transfer for macOS](https://www.android.com/filetransfer/)**). The QuestCraft Bot, CraftyVR, will give you ways to fix the crash. If not, you can scroll to the bottom of the retrieved log in a text editor and check the Fabric error message for causes and possible solutions. 
-
-
-If you need help with crashes and other issues, please go to the support channel of the QuestCraft Discord (discord.gg/QuestCraft). 
 
 ### Standard Mods:
 
@@ -91,7 +84,6 @@ If you need help with crashes and other issues, please go to the support channel
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine. Not included in 1.20.1 and later)
 
-**A table showing these mods and their supported versions in a better and more visually appealing way is coming soon!**\
 **Iris -may- only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
 
 ## Some Recommended Settings and Tips
@@ -103,7 +95,7 @@ If you need help with crashes and other issues, please go to the support channel
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
 - QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib), and **[Zink](https://docs.mesa3d.org/drivers/zink.html)**!
-- The QCXR forks we use are: **[Pojlib](https://github.com/questcraftplusplus/pojlib)** and **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**.
+- The QCXR forks we use are: **[Pojlib](https://github.com/questcraftplusplus/pojlib)**, **[the QCXR Wrapper](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper)**, and **[VivecraftMod](https://github.com/questcraftplusplus/vivecraftmod)**.
 - All support questions should be asked inside the **[QuestCraft Discord](discord.gg/questcraft)** for quick and easy solutions from our lovely support members.
 - Pico support is planned and being developed. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
 - When installing mods that are not from Mod Manager on your Quest, you may face issues ranging from unexpected behaviour to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)** or go to the **[Discord server](https://discord.gg/questcraft/)**!
