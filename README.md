@@ -84,7 +84,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 - **[Starlight](https://modrinth.com/mod/starlight)** (Improves the lighting engine. Not included in 1.20.1 and later)
 
-**Iris -may- only work on 1.18.2 and maybe even 1.19.2; please remember that FPS will not be high, and crashing is more likely!** <br>
+**Iris -may- only work older versions of MC; please remember that FPS will not be high, and crashing is more likely!** <br>
 
 ## Some Recommended Settings and Tips
 1. The game's render distance is best at 4-8, but you *may* encounter lag spikes when using it, especially on higher values. 9 and above is not recommended.
