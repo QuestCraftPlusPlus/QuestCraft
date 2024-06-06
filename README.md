@@ -60,6 +60,7 @@ If you need help with these solutions, please go to the support channel of the Q
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (and ONLY Pico) support is planned and is currently in development. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, please **[file an issue](https://github.com/QuestCraftPlusPlus/QuestCraft/issues/new/choose)** or go to the **[Discord server](https://discord.gg/questcraft/)**!
+- The next version of minecraft will come out as soon as vivecraft is updated. We will update QuestCraft as soon as possible after that.
 
 # This project is open source...
 ...but you don't find source code in this repo. You can find the source code for each subproject in their respective repos:
