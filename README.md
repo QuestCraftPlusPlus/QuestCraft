@@ -22,7 +22,7 @@ First off, you most likely want to install QuestCraft. Please go to the release 
 
 Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
 
-Next, open your headset's QuestCraft launcher (through Unknown Sources.) Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download (aproxx. 10 minutes, dependant on internet speed.) (You must do this for each specific version to play that version!) While it downloads, do not take off your headset as it may cause files to stop transfering.
+Next, open your headset's QuestCraft launcher (through Unknown Sources.) Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download. (aproxx. 10 minutes, dependent on internet speed) (You must do this for each specific version to play that version!) While it downloads, do not take off your headset as it may cause files to stop transfering.
 
 **NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret; launch the app again, press play again, and the download will continue where it left of before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the [QuestCraft Discord](https://discord.gg/questcraft)**
 
@@ -56,7 +56,7 @@ If you need help with these solutions, please go to the support channel of the Q
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
-- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Zink](https://docs.mesa3d.org/drivers/zink.html) for our current renderer and **[VulkanMod](https://github.com/xCollateral/VulkanMod)**!
+- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Regal](https://github.com/QuestCraftPlusPlus/regal) for our current renderer!
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (and ONLY Pico) support is planned and is currently in development. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
