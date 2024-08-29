@@ -24,8 +24,6 @@ Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQu
 
 Next, open your headset's QuestCraft launcher (through Unknown Sources.) Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download. (aproxx. 10 minutes, dependent on internet speed) (You must do this for each specific version to play that version!) While it downloads, do not take off your headset as it may cause files to stop transfering.
 
-**NOTE: You may encounter crashes when downloading your selected MC version, ESPECIALLY on v53 and later. This is because Meta can't fix memory leaks, for some reason. Don't fret; launch the app again, press play again, and the download will continue where it left of before the crash. If it continues, please keep trying. If, after 4 attempts, you still are not loaded in, please visit the support channel of the [QuestCraft Discord](https://discord.gg/questcraft)**
-
 And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset, it might take a while (1-4 minutes max.)
 
 ## Supported Renderer
@@ -51,8 +49,7 @@ If you need help with these solutions, please go to the support channel of the Q
 ## Some Recommended Settings and Tips
 1. In the options menu, go to VR Settings/Stereo Rendering and set the resolution (NOT CAMERA RES) to 80%. This will decrease the general quality but will give an extra performance boost.
 2. The game's render distance is best at 4-6, but you *may* encounter lag spikes when using it. 9 and above is not recommended.
-3. Oceans contain LOTS of kelp that decreases framerate. Don't mine any of it all at once, as your game may CRASH if many entities (in this case, kelp waiting to be picked up) exist simultaneously.
-4. **[Skyblock](https://minecraft.wiki/w/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
+3. **[Skyblock](https://minecraft.wiki/w/Tutorials/Skyblock)** and **[Oneblock](https://www.curseforge.com/minecraft/worlds/oneblock)** worlds perform the best, as they require less hardware usage.
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
