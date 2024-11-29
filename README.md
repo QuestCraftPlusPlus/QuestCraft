@@ -63,7 +63,6 @@ If you need help with these solutions, please go to the support channel of the Q
 # This project is open source...
 ...but you don't find source code in this repo. You can find the source code for each subproject in their respective repos:
 - **[Pojlib (Launcher library)](https://github.com/questcraftplusplus/pojlib)**
-- **[VivecraftMod (Minecraft VR Mod)](https://github.com/questcraftplusplus/vivecraftmod)**
 - **[Unity Environment (Launcher Wrapper)](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper).** 
 
 ## Controls
