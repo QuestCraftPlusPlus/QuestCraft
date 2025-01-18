@@ -11,7 +11,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 - ### **Quest 2 and 3 Native!\***
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
-- ### **Supports 1.18.2, 1.19.2 and 4, with 1.20.1 and 1.20.4!****                                                                                                                                 
+- ### **Supports 1.19.2 and 4, 1.20.1, 4 and 6, 1.21.1 and 1.21.4*                                                                                                                                 
 - ### **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in seconds, and use Mod Manager, a tool to download and install mods, modpacks and resourcepacks right from your Quest!**                                                                                                                                                                                
 
 # Installation Instructions
@@ -28,11 +28,15 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 ## Supported Renderer
 
-**Regal**
+**Light Thin Wrapper**
 
-We use a renderer named Regal, an almost perfect renderer for Minecraft. You may find issues, you can see some renderer specific issues on our Discord, and in the known-issues-5•0
+We use a renderer made with joint collaboration with [PojavLauncherTeam](https://github.com/PojavLauncherTeam), which allows for fast, and compatible way to play Java Edition on Mobile Devices. Light Thin Wrapper (LTW) also known as (Big Tiny Wrapper BTW) is proprietary software and may not be copied.
 
 ## Included Mods 
+
+QuestCraft includes many mods that replace modpacks for optimization. You can check it out [here!](https://github.com/QuestCraftPlusPlus/Pojlib/blob/QuestCraft/mods.json)
+
+## Mod Issues
 
 **Did you experience a mod-related crash when loading MC? You can do 1 of these solutions to find the cause and fix it!**
 
@@ -53,7 +57,7 @@ If you need help with these solutions, please go to the support channel of the Q
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
-- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Regal](https://github.com/QuestCraftPlusPlus/regal) for our current renderer!
+- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for [Pojlib](https://github.com/QuestCraftPlusPlus/Pojlib/tree/QuestCraft)!)
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - Pico (and ONLY Pico) support is planned and is currently in development. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
