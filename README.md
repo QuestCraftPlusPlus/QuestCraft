@@ -4,7 +4,7 @@
 # QuestCraft
 ![QC](/QCSimple3.jpg)
 
-QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of three main developers and 11 third-party developers, over the past year, we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Meta Quest and Pico Neo line of standalone HMDs.
+QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Meta Quest Headsets. With a team of three main developers and 11 third-party developers, over the past year, we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Meta Quest and Pico Neo line of standalone HMDs.
 
 # Features
 - ### **Roomscale Minecraft VR!** 
@@ -31,7 +31,7 @@ And boom! You have successfully installed QuestCraft on your VR headset! To play
 
 **Light Thin Wrapper**
 
-We use a renderer made with joint collaboration with [PojavLauncherTeam](https://github.com/PojavLauncherTeam), which allows for fast, and compatible way to play Java Edition on Mobile Devices. Light Thin Wrapper (LTW) also known as (Big Tiny Wrapper BTW) is proprietary software and may not be copied.
+We use a renderer made with joint collaboration with [PojavLauncherTeam](https://github.com/PojavLauncherTeam), which allows for fast, compatible, and best way to play Java Edition on Mobile Devices.
 
 ## Included Mods 
 
