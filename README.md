@@ -9,7 +9,7 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 # Features
 - ### **Roomscale Minecraft VR!** 
 - ### **Quest 2 and 3 Native!\**
-- ### **Pico Neo 3, 4, 4u Support!**
+- ### **Pico Neo 3, 4, 4u Support!\**
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.19.2 and 4, 1.20.1, 4 and 6, 1.21.1 and 1.21.4*                                                                                                                                 
