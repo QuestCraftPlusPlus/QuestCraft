@@ -8,7 +8,8 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 # Features
 - ### **Roomscale Minecraft VR!** 
-- ### **Quest 2 and 3 Native!\***
+- ### **Quest 2 and 3 Native!\**
+- ### **Pico Neo 3, 4, 4u Support!**
 - ### **Full Multiplayer!**                                                                    
 - ### **Immersive Controls through Vivecraft!**                                                                                                   
 - ### **Supports 1.19.2 and 4, 1.20.1, 4 and 6, 1.21.1 and 1.21.4*                                                                                                                                 
@@ -60,7 +61,6 @@ If you need help with these solutions, please go to the support channel of the Q
 - QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for [Pojlib](https://github.com/QuestCraftPlusPlus/Pojlib/tree/QuestCraft)!)
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
-- Pico (and ONLY Pico) support is planned and is currently in development. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, go to the **[Discord server](https://discord.gg/questcraft/)**!
 - If errors include render crashes with OpenGL or libraries that are not mods, feel free to also make a bug report **[HERE](https://github.com/QuestCraftPlusPlus/QuestCraft/issues)** on top of making a ticket in the Discord server above.
 
