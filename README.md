@@ -25,13 +25,13 @@ Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQu
 
 Next, open your headset's QuestCraft launcher (through Unknown Sources.) Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download. (aproxx. 10 minutes, dependent on internet speed) (You must do this for each specific version to play that version!) While it downloads, do not take off your headset as it may cause files to stop transfering.
 
-And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset, it might take a while (1-4 minutes max.)
+And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset, it might take a while (1-4 minutes max with default mods.)
 
 ## Supported Renderer
 
 **Light Thin Wrapper**
 
-We use a renderer made with joint collaboration with [PojavLauncherTeam](https://github.com/PojavLauncherTeam), which allows for fast, compatible, and best way to play Java Edition on Mobile Devices.
+We use a renderer made in joint collaboration with [PojavLauncherTeam](https://github.com/PojavLauncherTeam), which allows for fast, compatible, and best way to play Java Edition on Mobile Devices.
 
 ## Included Mods 
 
