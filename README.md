@@ -7,13 +7,13 @@
 QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Meta Quest Headsets. With a team of three main developers and 11 third-party developers, over the past year, we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Meta Quest and Pico Neo line of standalone HMDs.
 
 # Features
-- ### **Roomscale Minecraft VR!** 
-- ### **Quest 2 and 3 Native!\**
-- ### **Pico Neo 3, 4, 4u Support!\**
-- ### **Full Multiplayer!**                                                                    
-- ### **Immersive Controls through Vivecraft!**                                                                                                   
-- ### **Supports 1.19.2 and 4, 1.20.1, 4 and 6, 1.21.1 and 1.21.4*                                                                                                                                 
-- ### **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in seconds, and use Mod Manager, a tool to download and install mods, modpacks and resourcepacks right from your Quest!**                                                                                                                                                                                
+- **Roomscale Minecraft VR!** 
+- **Quest 2 and 3 Native!\**
+- **Pico Neo 3, 4, 4u Support!\**
+- **Full Multiplayer!**                                                                    
+- **Immersive Controls through Vivecraft!**                                                                                                   
+- **Supports 1.19.2 and 4, 1.20.1, 4 and 6, 1.21.1 and 1.21.4*                                                                                                                                 
+- **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in seconds, and use Mod Manager, a tool to download and install mods, modpacks and resourcepacks right from your Quest!**                                                                                                                                                                                
 
 # Installation Instructions
 
@@ -41,10 +41,12 @@ QuestCraft includes many mods that replace modpacks for optimization. You can ch
 
 **Did you experience a mod-related crash when loading MC? You can do 1 of these solutions to find the cause and fix it!**
 
-**Easy Way**                                                                                                                                                                                                                                                                                  
+### Easy Way
+
 Join the QuestCraft [Discord Server](https://discord.gg/questcraft) and go to #bot-commands. Grab your log by going to Need Help? button, going to the link it supplies, downloading the log, then uploading it to Crafty by doing /logs.
 
-**Manual Way**                                                                                                                                                                                                                                                                                      
+### Manual Way
+
 To find out what caused the crash, you can open the latestlog.txt file. You can find it in Android/data/com.qcxr.qcxr with a file viewer. You can go to the bottom of the file and look for a Fabric error message. This message will tell you which mods caused the crash. Once you know what caused the problem, you can fix it. You can now also get logs by pressing the "Need Help?" button, where it will give you a mclo.gs link.
 
 If you need help with these solutions, please go to the support channel of the QuestCraft [Discord](https://discord.gg/questcraft). 
@@ -62,7 +64,7 @@ If you need help with these solutions, please go to the support channel of the Q
 - All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
 - When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, go to the **[Discord server](https://discord.gg/questcraft/)**!
-- If errors include render crashes with OpenGL or libraries that are not mods, feel free to also make a bug report **[HERE](https://github.com/QuestCraftPlusPlus/QuestCraft/issues)** on top of making a ticket in the Discord server above.
+- If errors include render crashes with OpenGL or libraries that are not mods, feel free to also [make a bug report](https://github.com/QuestCraftPlusPlus/QuestCraft/issues) on top of making a ticket in the Discord server above.
 
 # This project is open source...
 ...but you don't find source code in this repo. You can find the source code for each subproject in their respective repos:
@@ -71,4 +73,66 @@ If you need help with these solutions, please go to the support channel of the Q
 
 ## Controls
 
-![There's supposed to be controls here](/QC_Controls.png)
+![Diagram of the table below](/QC_Controls.png)
+
+<details>
+  <summary>Show controls table</summary>
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Button</th>
+        <th scope="col">Function</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" align="left">Left thumbstick</th>
+        <td>Move (press to sprint)</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Right thumbstick</th>
+        <td>Left/right turn (press to crouch)</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Left trigger</th>
+        <td>Place/use</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Right trigger</th>
+        <td>Break/grab</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Left grab</th>
+        <td>Hotbar left</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Right grab</th>
+        <td>Hotbar right</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">X</th>
+        <td>Inventory</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Y</th>
+        <td>Teleport</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">A</th>
+        <td>Radial menu</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">B</th>
+        <td>Jump</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Menu button</th>
+        <td>Pause/menu</td>
+      </tr>
+      <tr>
+        <th scope="row" align="left">Meta button</th>
+        <td>Meta home</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
