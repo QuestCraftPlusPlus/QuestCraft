@@ -3,8 +3,7 @@ description: Request a feature
 title: "[FEATURE] <title>"
 labels: ["feature"]
 assignees:
-  - CADIndie
-  - ManiacGamer156
+  - TheJudge156
 body:
 - type: textarea
   attributes:

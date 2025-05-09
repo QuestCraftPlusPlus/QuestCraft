@@ -3,8 +3,7 @@ description: File a bug/issue
 title: "[BUG] <title>"
 labels: ["bug"]
 assignees:
-  - CADIndie
-  - ManiacGamer156
+  - TheJudge156
 body:
 - type: textarea
   attributes:
