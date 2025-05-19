@@ -85,52 +85,52 @@ If you need help with these solutions, please go to the support channel of the Q
     </thead>
     <tbody>
       <tr>
-        <th scope="row" align="left">Left thumbstick</th>
-        <td>Move (press to sprint)</td>
+        <th scope="row" style="text-align: left;">Left Thumbstick</th>
+        <td>Move (Press to Sprint)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Right thumbstick</th>
-        <td>Left/right turn (press to crouch)</td>
+        <th scope="row" style="text-align: left;">Right Thumbstick</th>
+        <td>Left / Right Turn (Press to Crouch)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Left trigger</th>
+        <th scope="row" style="text-align: left;">Left Trigger</th>
         <td>Place/use</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Right trigger</th>
-        <td>Break/grab</td>
+        <th scope="row" style="text-align: left;">Right Trigger</th>
+        <td>Break / Grab</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Left grab</th>
-        <td>Hotbar left</td>
+        <th scope="row" style="text-align: left;">Left Grab</th>
+        <td>Hotbar Left (Left Scroll)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Right grab</th>
-        <td>Hotbar right</td>
+        <th scope="row" style="text-align: left;">Right Grab</th>
+        <td>Hotbar Right (Right Scroll)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">X</th>
+        <th scope="row" style="text-align: left;">X</th>
         <td>Inventory</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Y</th>
+        <th scope="row" style="text-align: left;">Y</th>
         <td>Teleport</td>
       </tr>
       <tr>
-        <th scope="row" align="left">A</th>
-        <td>Radial menu</td>
+        <th scope="row" style="text-align: left;">A</th>
+        <td>Radial Menu</td>
       </tr>
       <tr>
-        <th scope="row" align="left">B</th>
+        <th scope="row" style="text-align: left;">B</th>
         <td>Jump</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Menu button</th>
-        <td>Pause/menu</td>
+        <th scope="row" style="text-align: left;">Menu Button</th>
+        <td>Pause / Esc</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Meta button</th>
-        <td>Meta home</td>
+        <th scope="row" style="text-align: left;">Meta Button</th>
+        <td>Meta Home</td>
       </tr>
     </tbody>
   </table>
