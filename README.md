@@ -4,15 +4,16 @@
 # QuestCraft
 ![QC](/QCSimple3.jpg)
 
-QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to Oculus Quest Headsets. With a team of four main developers and 8 third-party developers, over the past year, we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Oculus Quest line of standalone HMDs.
+QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: Java Edition to many VR Headsets. With a team of three main developers and 11 third-party developers, over the past year, we have not only gotten the bestselling game, Minecraft: Java Edition running on Android, but we have also worked with third-party developers to bring it into Virtual Reality on the Meta Quest and other standalone HMDs.
 
 # Features
-- **Roomscale Minecraft VR!**
-- **Quest 2 and 3 Native!\***
-- **Full Multiplayer!**
-- **Immersive Controls through Vivecraft!**
-- **Supports 1.18.2, 1.19.2 and 4, with 1.20.1 and 1.20.4!****                                                         
-- **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in seconds, and use Mod Manager, a tool to download and install mods, modpacks and resourcepacks right from your Quest!**
+- **Roomscale Minecraft VR!** 
+- **Quest 2 and 3 Native!\**
+- **Pico Neo 3, 4, 4u Support along with other headsets!\**
+- **Full Multiplayer!**                                                                    
+- **Immersive Controls through Vivecraft!**                                                                                                   
+- **Supports 1.19.2 + 4, 1.20.1, 4 + 6, 1.21.1 + 4*                                                                                                                                 
+- **Includes a launcher that allows you to start QuestCraft, switch between versions, automatically update installed mods and other MC components in seconds, and use Mod Manager, a tool to download and install mods, modpacks and resourcepacks right from your Quest!**                                                                                                                                                                                
 
 # Installation Instructions
 
@@ -20,19 +21,23 @@ QuestCraft, utilizing Vivecraft and Pojlib, is a standalone port of Minecraft: J
 
 First off, you most likely want to install QuestCraft. Please go to the release page for **[QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft/releases/latest)** and download the APK to your computer or Android device.
 
-Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your Quest. Drag and drop the APK, and wait for it to install.
+Secondly, you must install the QuestCraft APK to your VR Headset using **[SideQuest](https://sidequestvr.com/setup-howto)** and follow the necessary steps to connect your preferred VR headset. Drag and drop the APK, and wait for it to install.
 
-Next, open your headset's QuestCraft launcher (through Unknown Sources.) Be sure to grant all requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all of the files to download. (aproxx. 10 minutes, dependent on internet speed) (You must do this for each specific version to play that version!) While it downloads, do not take off your headset as it may cause files to stop transfering.
+Next, open your headset's QuestCraft launcher (maybe in Unknown Sources.) Make sure to grant requested permissions. Once you're done, you'll follow the on-screen prompts to enter your Minecraft login details, then press play and wait for all the files to download. (approx. 10 minutes, dependent on internet speed, you must do this for each specific version to play that version!) While it downloads, do not take off your headset as it may cause files to stop transferring.
 
-And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset, it might take a while (1-4 minutes max.)
+And boom! You have successfully installed QuestCraft on your VR headset! To play, press the **Play** button and wait for it to load; depending on the headset, it might take a while, but our nifty log viewer will show you progress, (1-4 minutes max with default mods.)
 
 ## Supported Renderer
 
-**Regal**
+**Light Thin Wrapper**
 
-We use a renderer named Regal, an almost perfect renderer for Minecraft. You may find issues, you can see some renderer specific issues on our Discord, and in the known-issues-5•0
+We use a renderer made in joint collaboration with [PojavLauncherTeam](https://github.com/PojavLauncherTeam), which allows for fast, compatible, and best way to play Java Edition on Mobile Devices.
 
 ## Included Mods 
+
+QuestCraft includes many mods that replace modpacks for optimization. [You can check it out here!](https://github.com/QuestCraftPlusPlus/Pojlib/blob/QuestCraft/mods.json)
+
+## Mod Issues
 
 **Did you experience a mod-related crash when loading MC? You can do 1 of these solutions to find the cause and fix it!**
 
@@ -55,12 +60,10 @@ If you need help with these solutions, please go to the support channel of the Q
 
 # Notes
 - We do not exist on TikTok. No one from the dev team makes TikTok videos.
-- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for Pojlib!), [Regal](https://github.com/QuestCraftPlusPlus/regal) for our current renderer!
-- All support questions should be asked inside of the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
+- QuestCraft (QCXR) is developed and maintained by the QCXR team; we also contribute upstream to the open-source tools that we used to make this a reality; make sure to check out **[MCXR](https://github.com/mcxr-org/MCXR)**, the previous VR mod, now replaced with **[VivecraftMod](https://github.com/ferriarnus/VivecraftMod)**, **[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)** (for [Pojlib](https://github.com/QuestCraftPlusPlus/Pojlib/tree/QuestCraft)!)
+- All support questions should be asked inside the **[QuestCraft Discord](discord.gg/questcraft)** for the best experience.
 - **questcraft.net is not maintained or owned by anyone on the QuestCraft team**; they could put malware on it anytime. Please do not download anything from or visit questcraft.net. **Our new website is here at [QuestCraft](https://questcraft.org/)**. 
-- Pico (and ONLY Pico) support is planned and is currently in development. Until then, kindly use **[Vivecraft PCVR](https://www.vivecraft.org/)**.
-- When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, go to the **[Discord server](https://discord.gg/questcraft/)**!
-- If errors include render crashes with OpenGL or libraries that are not mods, feel free to also [make a bug report](https://github.com/QuestCraftPlusPlus/QuestCraft/issues) on top of making a ticket in the Discord server above.
+- When installing mods that are not from Mod Manager on your Quest, you may face issues, ranging from unexpected behaviour to crashes! If you experience any, go to the **[Discord server](https://discord.gg/questcraft/), or if there isn't already an issue and is not about mod compatibility, [make a bug report](https://github.com/QuestCraftPlusPlus/QuestCraft/issues)**
 
 # This project is open source...
 ...but you don't find source code in this repo. You can find the source code for each subproject in their respective repos:
@@ -82,52 +85,52 @@ If you need help with these solutions, please go to the support channel of the Q
     </thead>
     <tbody>
       <tr>
-        <th scope="row" align="left">Left thumbstick</th>
-        <td>Move (press to sprint)</td>
+        <th scope="row" style="text-align: left;">Left Thumbstick</th>
+        <td>Move (Press to Sprint)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Right thumbstick</th>
-        <td>Left/right turn (press to crouch)</td>
+        <th scope="row" style="text-align: left;">Right Thumbstick</th>
+        <td>Left / Right Turn (Press to Crouch)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Left trigger</th>
+        <th scope="row" style="text-align: left;">Left Trigger</th>
         <td>Place/use</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Right trigger</th>
-        <td>Break/grab</td>
+        <th scope="row" style="text-align: left;">Right Trigger</th>
+        <td>Break / Grab</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Left grab</th>
-        <td>Hotbar left</td>
+        <th scope="row" style="text-align: left;">Left Grab</th>
+        <td>Hotbar Left (Left Scroll)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Right grab</th>
-        <td>Hotbar right</td>
+        <th scope="row" style="text-align: left;">Right Grab</th>
+        <td>Hotbar Right (Right Scroll)</td>
       </tr>
       <tr>
-        <th scope="row" align="left">X</th>
+        <th scope="row" style="text-align: left;">X</th>
         <td>Inventory</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Y</th>
+        <th scope="row" style="text-align: left;">Y</th>
         <td>Teleport</td>
       </tr>
       <tr>
-        <th scope="row" align="left">A</th>
-        <td>Radial menu</td>
+        <th scope="row" style="text-align: left;">A</th>
+        <td>Radial Menu</td>
       </tr>
       <tr>
-        <th scope="row" align="left">B</th>
+        <th scope="row" style="text-align: left;">B</th>
         <td>Jump</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Menu button</th>
-        <td>Pause/menu</td>
+        <th scope="row" style="text-align: left;">Menu Button</th>
+        <td>Pause / Esc</td>
       </tr>
       <tr>
-        <th scope="row" align="left">Oculus button</th>
-        <td>Oculus home</td>
+        <th scope="row" style="text-align: left;">Meta Button</th>
+        <td>Meta Home</td>
       </tr>
     </tbody>
   </table>
